@@ -265,3 +265,42 @@ data_clean_long_lat <- data_raw_service_locations %>%
 data_service_locations <- data_services_info %>% 
   left_join(data_clean_long_lat) %>% 
   select(name, long, lat, everything())
+
+
+# Operators ---------------------------------------------------------------
+
+data_process_ops_single <- data_services_info %>% 
+  select(name, operator, is_single) %>% 
+  count(operator, is_single) %>% 
+  filter(is_single == TRUE) %>% 
+  reframe(operator,
+          n_single_sites = n)
+
+data_process_ops_twins <- data_services_info %>% 
+  count(operator, is_twin) %>% 
+  filter(is_twin == TRUE) %>% 
+  reframe(operator,
+          n_twins = n)
+
+data_process_ops_pair <- data_services_info %>% 
+  select(name, operator, is_pair) %>% 
+  count(operator, is_pair) %>% 
+  filter(is_pair == TRUE) %>% 
+  reframe(operator,
+          n_pairs = n)
+
+data_process_ops_simple_all <- data_services_info %>% 
+  count(operator, name = "n_named_sites_all") 
+
+data_operators <- data_process_ops_simple_all %>% 
+  left_join(data_process_ops_simple_ireland) %>% 
+  left_join(data_process_ops_single) %>% 
+  left_join(data_process_ops_twins) %>% 
+  left_join(data_process_ops_pair) %>% 
+  mutate(across(everything(), ~replace_na(.x, 0))) %>% 
+  mutate(n_named_sites_mainland = n_named_sites_all - n_named_sites_ireland) %>% 
+  select(
+    operator,
+    n_named_sites_all,
+    n_named_sites_mainland,
+    everything())
