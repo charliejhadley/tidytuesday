@@ -205,6 +205,8 @@ data_wide_services <- data_raw_services %>%
     property == "Electric Charge Point" ~ "has_electric_charge",
     TRUE ~ property
   )) %>% 
+  mutate(value = str_replace_all(value, "ï��[0-9]{1,}", "£"),
+         value = str_remove_all(value, "Â")) %>% 
   pivot_wider(names_from = property,
               values_from = value) %>% 
   janitor::clean_names() %>% 
