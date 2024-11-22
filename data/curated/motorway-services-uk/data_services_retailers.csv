@@ -1,0 +1,653 @@
+retailer,service_station,direction,is_food_retailer,is_restaurant,is_takeaway,is_prepared_food_only,is_coffee_shop
+Starbucks,Abington Services M74,Directionless,TRUE,NA,TRUE,NA,TRUE
+Papa John's,Abington Services M74,Directionless,TRUE,TRUE,TRUE,NA,NA
+Burger King,Abington Services M74,Directionless,TRUE,TRUE,TRUE,NA,NA
+Dunkin' Donuts,Abington Services M74,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Harry Ramsden's,Abington Services M74,Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Annandale Water Services A74(M),Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Restbite,Annandale Water Services A74(M),Directionless,TRUE,NA,NA,NA,TRUE
+The Burger Company,Annandale Water Services A74(M),Directionless,TRUE,TRUE,TRUE,NA,NA
+KFC,Baldock Services A1(M),Directionless,TRUE,TRUE,TRUE,NA,NA
+Le Petit Four,Baldock Services A1(M),Directionless,TRUE,FALSE,TRUE,NA,TRUE
+McDonald's,Baldock Services A1(M),Directionless,TRUE,TRUE,TRUE,NA,NA
+Starbucks,Baldock Services A1(M),Directionless,TRUE,NA,TRUE,NA,TRUE
+McDonald's,Beaconsfield Services M40,Directionless,TRUE,TRUE,TRUE,NA,NA
+Starbucks,Beaconsfield Services M40,Directionless,TRUE,NA,TRUE,NA,TRUE
+Carvery Express,Beaconsfield Services M40,Directionless,TRUE,TRUE,NA,NA,NA
+Wetherspoon's,Beaconsfield Services M40,Directionless,TRUE,TRUE,FALSE,NA,NA
+KFC,Beaconsfield Services M40,Directionless,TRUE,TRUE,TRUE,NA,NA
+Domino's Pizza,Beaconsfield Services M40,Directionless,TRUE,TRUE,TRUE,NA,NA
+Greggs,Beaconsfield Services M40,Directionless,TRUE,TRUE,TRUE,NA,TRUE
+El Mexicana,Beaconsfield Services M40,Directionless,TRUE,TRUE,TRUE,NA,NA
+Chozen Noodles,Beaconsfield Services M40,Directionless,TRUE,TRUE,TRUE,NA,NA
+LP4,Beaconsfield Services M40,Directionless,FALSE,NA,NA,NA,NA
+Burger King,Birch Services M62,Directionless,TRUE,TRUE,TRUE,NA,NA
+Greggs,Birch Services M62,Directionless,TRUE,TRUE,TRUE,NA,TRUE
+Costa,Birch Services M62,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Eat & Drink Co,Birch Services M62,Directionless,TRUE,TRUE,TRUE,NA,NA
+Burger King,Birchanger Green Services M11,Directionless,TRUE,TRUE,TRUE,NA,NA
+KFC,Birchanger Green Services M11,Directionless,TRUE,TRUE,TRUE,NA,NA
+Eat In,Birchanger Green Services M11,Directionless,TRUE,TRUE,TRUE,NA,NA
+McDonald's,Blackburn with Darwen Services M65,Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Blackburn with Darwen Services M65,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Greggs,Blackburn with Darwen Services M65,Directionless,TRUE,TRUE,TRUE,NA,TRUE
+Cafe Ritazza,Blyth Services A1(M),Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Burger King,Blyth Services A1(M),Directionless,TRUE,TRUE,TRUE,NA,NA
+Fresh Express,Blyth Services A1(M),Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Bothwell Services M74,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Restbite,Bothwell Services M74,Directionless,TRUE,NA,NA,NA,TRUE
+Burger King,Bridgwater Services M5,Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Bridgwater Services M5,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+West Cornwall Pasty Company,Bridgwater Services M5,Directionless,TRUE,NA,NA,NA,TRUE
+Krispy Kreme,Bridgwater Services M5,Directionless,TRUE,TRUE,TRUE,NA,TRUE
+Ginsters Sandwiches,Bridgwater Services M5,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Burger King,Burton-in-Kendal Services M6,Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Burton-in-Kendal Services M6,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Eat & Drink Co,Burton-in-Kendal Services M6,Directionless,TRUE,TRUE,TRUE,NA,NA
+Starbucks,Burtonwood Services M62,Directionless,TRUE,NA,TRUE,NA,TRUE
+KFC,Burtonwood Services M62,Directionless,TRUE,TRUE,TRUE,NA,NA
+Eat In,Burtonwood Services M62,Directionless,TRUE,TRUE,TRUE,NA,NA
+McDonald's,Cambridge Services A14,Directionless,TRUE,TRUE,TRUE,NA,NA
+El Mexicana,Cambridge Services A14,Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Cambridge Services A14,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+BakeHouse,Cambridge Services A14,Directionless,TRUE,FALSE,TRUE,NA,NA
+Patiserie Valerie,Cambridge Services A14,Directionless,TRUE,NA,TRUE,NA,TRUE
+M&S,Cambridge Services A14,Directionless,TRUE,NA,NA,TRUE,NA
+KFC,Cambridge Services A14,Directionless,TRUE,TRUE,TRUE,NA,NA
+Starbucks,Cardiff Gate Services M4,Directionless,TRUE,NA,TRUE,NA,TRUE
+Burger King,Cardiff Gate Services M4,Directionless,TRUE,TRUE,TRUE,NA,NA
+Burger King,Cardiff West Services M4,Directionless,TRUE,TRUE,TRUE,NA,NA
+Greggs,Cardiff West Services M4,Directionless,TRUE,TRUE,TRUE,NA,TRUE
+Costa,Cardiff West Services M4,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Krispy Kreme,Cardiff West Services M4,Directionless,TRUE,TRUE,TRUE,NA,TRUE
+Subway,Cardiff West Services M4,Directionless,TRUE,TRUE,TRUE,NA,NA
+Restaurant,Castlebellingham Services M1 Ireland,Directionless,TRUE,TRUE,NA,NA,NA
+Burger King,Castlebellingham Services M1 Ireland,Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Castlebellingham Services M1 Ireland,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Burger King,Charnock Richard Services M6,Directionless,TRUE,TRUE,TRUE,NA,NA
+KFC,Charnock Richard Services M6,Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Cherwell Valley Services M40,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Eat & Drink Co,Cherwell Valley Services M40,Directionless,TRUE,TRUE,TRUE,NA,NA
+Burger King,Cherwell Valley Services M40,Directionless,TRUE,TRUE,TRUE,NA,NA
+Upper Crust,Cherwell Valley Services M40,Directionless,TRUE,NA,TRUE,NA,TRUE
+McDonald's,Chester Services M56,Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Chester Services M56,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Chozen Noodles,Chester Services M56,Directionless,TRUE,TRUE,TRUE,NA,NA
+Fresh Food Cafe,Chester Services M56,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Krispy Kreme,Chester Services M56,Directionless,TRUE,TRUE,TRUE,NA,TRUE
+Arlo's,Chieveley Services M4,Directionless,TRUE,TRUE,TRUE,NA,NA
+Burger King,Chieveley Services M4,Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Chieveley Services M4,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+West Cornwall Pasty Company,Chieveley Services M4,Directionless,TRUE,NA,NA,NA,TRUE
+Greggs,Chieveley Services M4,Directionless,TRUE,TRUE,TRUE,NA,TRUE
+McDonald's,Clacket Lane Services M25,Directionless,TRUE,TRUE,TRUE,NA,NA
+Hot Food Co,Clacket Lane Services M25,Directionless,TRUE,TRUE,NA,NA,NA
+Costa,Clacket Lane Services M25,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Wild Bean Cafe,Clacket Lane Services M25,Directionless,TRUE,NA,NA,NA,TRUE
+KFC,Cobham Services M25,Directionless,TRUE,TRUE,TRUE,NA,NA
+McDonald's,Cobham Services M25,Directionless,TRUE,TRUE,TRUE,NA,NA
+Starbucks,Cobham Services M25,Directionless,TRUE,NA,TRUE,NA,TRUE
+Eat In,Cobham Services M25,Directionless,TRUE,TRUE,TRUE,NA,NA
+Greggs,Cobham Services M25,Directionless,TRUE,TRUE,TRUE,NA,TRUE
+Papa John's,Cobham Services M25,Directionless,TRUE,TRUE,TRUE,NA,NA
+El Mexicana,Cobham Services M25,Directionless,TRUE,TRUE,TRUE,NA,NA
+Moodog,Cobham Services M25,Directionless,TRUE,NA,TRUE,NA,TRUE
+Chozen Noodles,Cobham Services M25,Directionless,TRUE,TRUE,TRUE,NA,NA
+Dessert Station,Cobham Services M25,Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Cobham Services M25,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+M&S,Cobham Services M25,Directionless,TRUE,NA,NA,TRUE,NA
+Starbucks,Corley Services M6,Directionless,TRUE,NA,TRUE,NA,TRUE
+Coffee Primo,Corley Services M6,Directionless,TRUE,TRUE,TRUE,NA,TRUE
+Eat In,Corley Services M6,Directionless,TRUE,TRUE,TRUE,NA,NA
+Burger King,Corley Services M6,Directionless,TRUE,TRUE,TRUE,NA,NA
+KFC,Corley Services M6,Directionless,TRUE,TRUE,TRUE,NA,NA
+McDonald's,Cullompton Services M5,Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Cullompton Services M5,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Coffee Primo,Derby South Services Eastbound A50,Directionless,TRUE,TRUE,TRUE,NA,TRUE
+Eat In,Derby South Services Eastbound A50,Directionless,TRUE,TRUE,TRUE,NA,NA
+LP4,Derby South Services Westbound A50,Directionless,FALSE,NA,NA,NA,NA
+KFC,Derby South Services Westbound A50,Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Doncaster North Services M18,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Burger King,Doncaster North Services M18,Directionless,TRUE,TRUE,TRUE,NA,NA
+Eat & Drink Co,Doncaster North Services M18,Directionless,TRUE,TRUE,TRUE,NA,NA
+Greggs,Doncaster North Services M18,Directionless,TRUE,TRUE,TRUE,NA,TRUE
+Burger King,Donington Park Services M1,Directionless,TRUE,TRUE,TRUE,NA,NA
+Harvester,Donington Park Services M1,Directionless,TRUE,TRUE,FALSE,NA,NA
+Costa,Donington Park Services M1,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Costa,Durham Services A1(M),Directionless,TRUE,FALSE,TRUE,NA,TRUE
+McDonald's,Durham Services A1(M),Directionless,TRUE,TRUE,TRUE,NA,NA
+Restaurant,Enfield Services M4 Ireland,Directionless,TRUE,TRUE,NA,NA,NA
+Burger King,Enfield Services M4 Ireland,Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Enfield Services M4 Ireland,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Burger King,Exeter Services M5,Directionless,TRUE,TRUE,TRUE,NA,NA
+M&S,Exeter Services M5,Directionless,TRUE,NA,NA,TRUE,NA
+Costa,Exeter Services M5,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Eat & Drink Co,Exeter Services M5,Directionless,TRUE,TRUE,TRUE,NA,NA
+WHSmiths,Exeter Services M5,Directionless,TRUE,NA,NA,TRUE,NA
+Greggs,Exeter Services M5,Directionless,TRUE,TRUE,TRUE,NA,TRUE
+Ladbrokes,Exeter Services M5,Directionless,FALSE,NA,NA,NA,NA
+Costa,Exeter Services M5,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Krispy Kreme,Exeter Services M5,Directionless,TRUE,TRUE,TRUE,NA,TRUE
+West Cornwall Pasty Company,Exeter Services M5,Directionless,TRUE,NA,NA,NA,TRUE
+Costa,Ferrybridge Services M62,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Ernies,Ferrybridge Services M62,Directionless,TRUE,TRUE,TRUE,NA,NA
+Burger King,Ferrybridge Services M62,Directionless,TRUE,TRUE,TRUE,NA,NA
+Greggs,Ferrybridge Services M62,Directionless,TRUE,TRUE,TRUE,NA,TRUE
+KFC,Fleet Services M3,Directionless,TRUE,TRUE,TRUE,NA,NA
+Burger King,Fleet Services M3,Directionless,TRUE,TRUE,TRUE,NA,NA
+McDonald's,Fleet Services M3,Directionless,TRUE,TRUE,TRUE,NA,NA
+Eat In,Fleet Services M3,Directionless,TRUE,TRUE,TRUE,NA,NA
+Starbucks,Fleet Services M3,Directionless,TRUE,NA,TRUE,NA,TRUE
+Greggs,Frankley Services M5,Directionless,TRUE,TRUE,TRUE,NA,TRUE
+Costa,Frankley Services M5,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Burger King,Frankley Services M5,Directionless,TRUE,TRUE,TRUE,NA,NA
+Eat & Drink Co,Frankley Services M5,Directionless,TRUE,TRUE,TRUE,NA,NA
+"Food to Go
+Farm Cafe",Gloucester Services Northbound M5,Directionless,NA,NA,NA,NA,NA
+"Food to Go
+Farm Cafe",Gloucester Services Southbound M5,Directionless,NA,NA,NA,NA,NA
+Starbucks,Gordano Services M5,Directionless,TRUE,NA,TRUE,NA,TRUE
+Eat In,Gordano Services M5,Directionless,TRUE,TRUE,TRUE,NA,NA
+Burger King,Gordano Services M5,Directionless,TRUE,TRUE,TRUE,NA,NA
+KFC,Gordano Services M5,Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Grantham North Services A1,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Burger King,Grantham North Services A1,Directionless,TRUE,TRUE,TRUE,NA,NA
+Fresh Express,Grantham North Services A1,Directionless,TRUE,TRUE,TRUE,NA,NA
+Starbucks,Gretna Green Services M74,Directionless,TRUE,NA,TRUE,NA,TRUE
+KFC,Gretna Green Services M74,Directionless,TRUE,TRUE,TRUE,NA,NA
+Burger King,Gretna Green Services M74,Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Hamilton Services M74,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Restbite,Hamilton Services M74,Directionless,TRUE,NA,NA,NA,TRUE
+Coffee Primo,Hartshead Moor Services M62,Directionless,TRUE,TRUE,TRUE,NA,TRUE
+Eat In,Hartshead Moor Services M62,Directionless,TRUE,TRUE,TRUE,NA,NA
+Burger King,Hartshead Moor Services M62,Directionless,TRUE,TRUE,TRUE,NA,NA
+KFC,Hartshead Moor Services M62,Directionless,TRUE,TRUE,TRUE,NA,NA
+Wimpy,Heart of Scotland M8,Directionless,TRUE,TRUE,TRUE,NA,NA
+Wild Bean Cafe,Heart of Scotland M8,Directionless,TRUE,NA,NA,NA,TRUE
+Costa,Heston Services M4,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Burger King,Heston Services M4,Directionless,TRUE,TRUE,TRUE,NA,NA
+Greggs,Heston Services M4,Directionless,TRUE,TRUE,TRUE,NA,TRUE
+Burger King,Hilton Park Services M6,Directionless,TRUE,TRUE,TRUE,NA,NA
+Greggs,Hilton Park Services M6,Directionless,TRUE,TRUE,TRUE,NA,TRUE
+Eat & Drink Co,Hilton Park Services M6,Directionless,TRUE,TRUE,TRUE,NA,NA
+Starbucks,Hopwood Park Services M42,Directionless,TRUE,NA,TRUE,NA,TRUE
+Eat In,Hopwood Park Services M42,Directionless,TRUE,TRUE,TRUE,NA,NA
+Burger King,Hopwood Park Services M42,Directionless,TRUE,TRUE,TRUE,NA,NA
+KFC,Hopwood Park Services M42,Directionless,TRUE,TRUE,TRUE,NA,NA
+Westmorland restaurant and bar,J38 Truckstop M6,Directionless,TRUE,TRUE,TRUE,NA,NA
+Starbucks,Keele Services M6,Directionless,TRUE,NA,TRUE,NA,TRUE
+Eat In,Keele Services M6,Directionless,TRUE,TRUE,TRUE,NA,NA
+Burger King,Keele Services M6,Directionless,TRUE,TRUE,TRUE,NA,NA
+KFC,Keele Services M6,Directionless,TRUE,TRUE,TRUE,NA,NA
+McDonald's,Killington Lake Services M6,Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Killington Lake Services M6,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+WHSmiths,Killington Lake Services M6,Directionless,TRUE,NA,NA,TRUE,NA
+Costa,Kinross Services M90,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Burger King,Kinross Services M90,Directionless,TRUE,TRUE,TRUE,NA,NA
+Cafe Ritazza,Knutsford Services M6,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Burger King,Knutsford Services M6,Directionless,TRUE,TRUE,TRUE,NA,NA
+Fresh Express,Knutsford Services M6,Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Lancaster (Forton) Services M6,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Burger King,Lancaster (Forton) Services M6,Directionless,TRUE,TRUE,TRUE,NA,NA
+Fresh Express,Lancaster (Forton) Services M6,Directionless,TRUE,TRUE,TRUE,NA,NA
+Greggs,Lancaster (Forton) Services M6,Directionless,TRUE,TRUE,TRUE,NA,TRUE
+Arlo's,Lancaster (Forton) Services M6,Directionless,TRUE,TRUE,TRUE,NA,NA
+Starbucks,Leicester (Markfield) Services M1,Directionless,TRUE,NA,TRUE,NA,TRUE
+Coffee Primo,Leicester Forest East Services M1,Directionless,TRUE,TRUE,TRUE,NA,TRUE
+Eat In,Leicester Forest East Services M1,Directionless,TRUE,TRUE,TRUE,NA,NA
+Burger King,Leicester Forest East Services M1,Directionless,TRUE,TRUE,TRUE,NA,NA
+KFC,Leicester Forest East Services M1,Directionless,TRUE,TRUE,TRUE,NA,NA
+Eat & Drink Co,Leigh Delamere Services M4,Directionless,TRUE,TRUE,TRUE,NA,NA
+Burger King,Leigh Delamere Services M4,Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Leigh Delamere Services M4,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+West Cornwall Pasty Company,Leigh Delamere Services M4,Directionless,TRUE,NA,NA,NA,TRUE
+Domino's Pizza,Leigh Delamere Services M4,Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Leigh Delamere Services M4,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Burger King,London Gateway Services M1,Directionless,TRUE,TRUE,TRUE,NA,NA
+Subway,London Gateway Services M1,Directionless,TRUE,TRUE,TRUE,NA,NA
+Waitrose,London Gateway Services M1,Directionless,TRUE,NA,NA,TRUE,NA
+Starbucks,London Gateway Services M1,Directionless,TRUE,NA,TRUE,NA,TRUE
+Restaurant,Lusk Services M1 Ireland,Directionless,TRUE,TRUE,NA,NA,NA
+Burger King,Lusk Services M1 Ireland,Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Lusk Services M1 Ireland,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Fifth Wheel Bar and Grill,Lymm Services M6,Directionless,TRUE,TRUE,FALSE,TRUE,NA
+Greggs,Lymm Services M6,Directionless,TRUE,TRUE,TRUE,NA,TRUE
+Costa,Lymm Services M6,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+McDonald's,Lymm Services M6,Directionless,TRUE,TRUE,TRUE,NA,NA
+McDonald's,Magor Services M4,Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Magor Services M4,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Restbite,Magor Services M4,Directionless,TRUE,NA,NA,NA,TRUE
+Costa,Maidstone Services M20,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Restbite,Maidstone Services M20,Directionless,TRUE,NA,NA,NA,TRUE
+McDonald's,Maidstone Services M20,Directionless,TRUE,TRUE,TRUE,NA,NA
+Harry Ramsden's,Maidstone Services M20,Directionless,TRUE,TRUE,TRUE,NA,NA
+Burger King,Medway Services M2,Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Medway Services M2,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Greggs,Medway Services M2,Directionless,TRUE,TRUE,TRUE,NA,TRUE
+Starbucks,Membury Services M4,Directionless,TRUE,NA,TRUE,NA,TRUE
+Burger King,Membury Services M4,Directionless,TRUE,TRUE,TRUE,NA,NA
+KFC,Membury Services M4,Directionless,TRUE,TRUE,TRUE,NA,NA
+Eat In,Membury Services M4,Directionless,TRUE,TRUE,TRUE,NA,NA
+Starbucks,Michaelwood Services M5,Directionless,TRUE,NA,TRUE,NA,TRUE
+Eat In,Michaelwood Services M5,Directionless,TRUE,TRUE,TRUE,NA,NA
+Burger King,Michaelwood Services M5,Directionless,TRUE,TRUE,TRUE,NA,NA
+KFC,Michaelwood Services M5,Directionless,TRUE,TRUE,TRUE,NA,NA
+Burger King,Newport Pagnell Services M1,Directionless,TRUE,TRUE,TRUE,NA,NA
+Harry Ramsden's,Newport Pagnell Services M1,Directionless,TRUE,TRUE,TRUE,NA,NA
+Starbucks,Newport Pagnell Services M1,Directionless,TRUE,NA,TRUE,NA,TRUE
+Subway,Newport Pagnell Services M1,Directionless,TRUE,TRUE,TRUE,NA,NA
+WHSmiths,Newport Pagnell Services M1,Directionless,TRUE,NA,NA,TRUE,NA
+Costa,Norton Canes Services M6 Toll,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Restbite,Norton Canes Services M6 Toll,Directionless,TRUE,NA,NA,NA,TRUE
+The Burger Company,Norton Canes Services M6 Toll,Directionless,TRUE,TRUE,TRUE,NA,NA
+Chozen Noodles,Norton Canes Services M6 Toll,Directionless,TRUE,TRUE,TRUE,NA,NA
+Harry Ramsden's,Oxford Services M40,Directionless,TRUE,TRUE,TRUE,NA,NA
+Subway,Oxford Services M40,Directionless,TRUE,TRUE,TRUE,NA,NA
+Starbucks,Oxford Services M40,Directionless,TRUE,NA,TRUE,NA,TRUE
+Burger King,Oxford Services M40,Directionless,TRUE,TRUE,TRUE,NA,NA
+KFC,Oxford Services M40,Directionless,TRUE,TRUE,TRUE,NA,NA
+Greggs,Pease Pottage Services M23,Directionless,TRUE,TRUE,TRUE,NA,TRUE
+Burger King,Pease Pottage Services M23,Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Pease Pottage Services M23,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+McDonald's,Peterborough Services A1(M),Directionless,TRUE,TRUE,TRUE,NA,NA
+KFC,Peterborough Services A1(M),Directionless,TRUE,TRUE,TRUE,NA,NA
+Pizza Hut,Peterborough Services A1(M),Directionless,TRUE,TRUE,TRUE,NA,NA
+Le Petit Four,Peterborough Services A1(M),Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Costa,Pont Abraham Services M4,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Restbite,Pont Abraham Services M4,Directionless,TRUE,NA,NA,NA,TRUE
+Burger King,Reading Services M4,Directionless,TRUE,TRUE,TRUE,NA,NA
+Eat & Drink Co,Reading Services M4,Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Reading Services M4,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Burger King,Rivington Services M61,Directionless,TRUE,TRUE,TRUE,NA,NA
+Subway,Rivington Services M61,Directionless,TRUE,TRUE,TRUE,NA,NA
+Starbucks,Rivington Services M61,Directionless,TRUE,NA,TRUE,NA,TRUE
+Coffee Primo,Sarn Park Services M4,Directionless,TRUE,TRUE,TRUE,NA,TRUE
+Eat In,Sarn Park Services M4,Directionless,TRUE,TRUE,TRUE,NA,NA
+Burger King,Sarn Park Services M4,Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Scotch Corner Services A1(M),Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Burger King,Scotch Corner Services A1(M),Directionless,TRUE,TRUE,TRUE,NA,NA
+West Cornwall Pasty Company,Scotch Corner Services A1(M),Directionless,TRUE,NA,NA,NA,TRUE
+Starbucks,Sedgemoor Services Northbound M5,Directionless,TRUE,NA,TRUE,NA,TRUE
+Eat In,Sedgemoor Services Northbound M5,Directionless,TRUE,TRUE,TRUE,NA,NA
+Burger King,Sedgemoor Services Northbound M5,Directionless,TRUE,TRUE,TRUE,NA,NA
+McDonald's,Sedgemoor Services Southbound M5,Directionless,TRUE,TRUE,TRUE,NA,NA
+Fresh Food Cafe,Sedgemoor Services Southbound M5,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Chozen Noodles,Sedgemoor Services Southbound M5,Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Sedgemoor Services Southbound M5,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Burger King,Severn View Services M48,Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Severn View Services M48,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Coffee Primo,South Mimms Services M25,Directionless,TRUE,TRUE,TRUE,NA,TRUE
+Eat In,South Mimms Services M25,Directionless,TRUE,TRUE,TRUE,NA,NA
+Burger King,South Mimms Services M25,Directionless,TRUE,TRUE,TRUE,NA,NA
+KFC,South Mimms Services M25,Directionless,TRUE,TRUE,TRUE,NA,NA
+Cafe Ritazza,Southwaite Services M6,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Burger King,Southwaite Services M6,Directionless,TRUE,TRUE,TRUE,NA,NA
+Fresh Express,Southwaite Services M6,Directionless,TRUE,TRUE,TRUE,NA,NA
+Burger King,Stafford Services Northbound M6,Directionless,TRUE,TRUE,TRUE,NA,NA
+Greggs,Stafford Services Northbound M6,Directionless,TRUE,TRUE,TRUE,NA,TRUE
+Costa,Stafford Services Northbound M6,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Eat and Drink Company,Stafford Services Northbound M6,Directionless,TRUE,TRUE,TRUE,NA,NA
+McDonald's,Stafford Services Southbound M6,Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Stafford Services Southbound M6,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Restbite,Stafford Services Southbound M6,Directionless,TRUE,NA,NA,NA,TRUE
+Burger King,Stirling Services M9,Directionless,TRUE,TRUE,TRUE,NA,NA
+WHSmiths,Stirling Services M9,Directionless,TRUE,NA,NA,TRUE,NA
+Costa,Stirling Services M9,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+M&S,Stirling Services M9,Directionless,TRUE,NA,NA,TRUE,NA
+Coffee Republic,Stop24 Services (Folkestone) M20,Directionless,TRUE,TRUE,TRUE,NA,TRUE
+KFC,Stop24 Services (Folkestone) M20,Directionless,TRUE,TRUE,TRUE,NA,NA
+Wimpy,Stop24 Services (Folkestone) M20,Directionless,TRUE,TRUE,TRUE,NA,NA
+Subway,Stop24 Services (Folkestone) M20,Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Swansea West M4,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Burger King,Swansea West M4,Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Tamworth Services M42,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Greggs,Tamworth Services M42,Directionless,TRUE,TRUE,TRUE,NA,TRUE
+Burger King,Tamworth Services M42,Directionless,TRUE,TRUE,TRUE,NA,NA
+Eat & Drink Co,Tamworth Services M42,Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Taunton Deane Services M5,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Restbite,Taunton Deane Services M5,Directionless,TRUE,NA,NA,NA,TRUE
+McDonald's,Taunton Deane Services M5,Directionless,TRUE,TRUE,TRUE,NA,NA
+Coffee Primo,Telford Services M54,Directionless,TRUE,TRUE,TRUE,NA,TRUE
+Eat In,Telford Services M54,Directionless,TRUE,TRUE,TRUE,NA,NA
+Burger King,Telford Services M54,Directionless,TRUE,TRUE,TRUE,NA,NA
+Burger King,Thurrock Services M25,Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Tiverton Services M5,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Burger King,Tiverton Services M5,Directionless,TRUE,TRUE,TRUE,NA,NA
+Eat & Drink Co,Toddington Services M1,Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Toddington Services M1,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Burger King,Toddington Services M1,Directionless,TRUE,TRUE,TRUE,NA,NA
+Upper Crust,Toddington Services M1,Directionless,TRUE,NA,TRUE,NA,TRUE
+West Cornwall Pasty Company,Toddington Services M1,Directionless,TRUE,NA,NA,NA,TRUE
+Greggs,Toddington Services M1,Directionless,TRUE,TRUE,TRUE,NA,TRUE
+Costa,Todhills Rest Area M6,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Eat & Drink Co,Trowell Services M1,Directionless,TRUE,TRUE,TRUE,NA,NA
+Burger King,Trowell Services M1,Directionless,TRUE,TRUE,TRUE,NA,NA
+Starbucks,Warwick Services Northbound M40,Directionless,TRUE,NA,TRUE,NA,TRUE
+Eat In,Warwick Services Northbound M40,Directionless,TRUE,TRUE,TRUE,NA,NA
+Burger King,Warwick Services Northbound M40,Directionless,TRUE,TRUE,TRUE,NA,NA
+KFC,Warwick Services Northbound M40,Directionless,TRUE,TRUE,TRUE,NA,NA
+Starbucks,Warwick Services Southbound M40,Directionless,TRUE,NA,TRUE,NA,TRUE
+Eat In,Warwick Services Southbound M40,Directionless,TRUE,TRUE,TRUE,NA,NA
+Burger King,Warwick Services Southbound M40,Directionless,TRUE,TRUE,TRUE,NA,NA
+KFC,Warwick Services Southbound M40,Directionless,TRUE,TRUE,TRUE,NA,NA
+Burger King,Washington Services A1(M),Directionless,TRUE,TRUE,TRUE,NA,NA
+Eat,Washington Services A1(M),Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Washington Services A1(M),Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Burger King,Wetherby Services A1(M),Directionless,TRUE,TRUE,TRUE,NA,NA
+Eat & Drink Co,Wetherby Services A1(M),Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Wetherby Services A1(M),Directionless,TRUE,FALSE,TRUE,NA,TRUE
+M&S,Winchester Services M3,Directionless,TRUE,NA,NA,TRUE,NA
+Costa,Winchester Services M3,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Burger King,Winchester Services M3,Directionless,TRUE,TRUE,TRUE,NA,NA
+West Cornwall Pasty Company,Winchester Services M3,Directionless,TRUE,NA,NA,NA,TRUE
+WHSmiths,Winchester Services M3,Directionless,TRUE,NA,NA,TRUE,NA
+Burger King,Woodall Services M1,Directionless,TRUE,TRUE,TRUE,NA,NA
+KFC,Woodall Services M1,Directionless,TRUE,TRUE,TRUE,NA,NA
+Starbucks,Woodall Services M1,Directionless,TRUE,NA,TRUE,NA,TRUE
+McDonald's,Woodall Services M1,Directionless,TRUE,TRUE,TRUE,NA,NA
+Subway,Woodall Services M1,Directionless,TRUE,TRUE,TRUE,NA,NA
+Harry Ramsden's,Woodall Services M1,Directionless,TRUE,TRUE,TRUE,NA,NA
+Burger King,Woolley Edge Services M1,Directionless,TRUE,TRUE,TRUE,NA,NA
+Eat & Drink Co,Woolley Edge Services M1,Directionless,TRUE,TRUE,TRUE,NA,NA
+Costa,Woolley Edge Services M1,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Costa,Northampton Services M1,Northbound,TRUE,FALSE,TRUE,NA,TRUE
+Restbite,Northampton Services M1,Northbound,TRUE,NA,NA,NA,TRUE
+The Burger Company,Northampton Services M1,Northbound,TRUE,TRUE,TRUE,NA,NA
+Costa,Northampton Services M1,Southbound,TRUE,FALSE,TRUE,NA,TRUE
+Hot Food Co,Northampton Services M1,Southbound,TRUE,TRUE,NA,NA,NA
+McDonald's,Northampton Services M1,Southbound,TRUE,TRUE,TRUE,NA,NA
+Costa,Rownhams Services M27,Eastbound,TRUE,FALSE,TRUE,NA,TRUE
+Restbite,Rownhams Services M27,Eastbound,TRUE,NA,NA,NA,TRUE
+Costa,Rownhams Services M27,Westbound,TRUE,FALSE,TRUE,NA,TRUE
+Restbite,Rownhams Services M27,Westbound,TRUE,NA,NA,NA,TRUE
+McDonald's,Rownhams Services M27,Westbound,TRUE,TRUE,TRUE,NA,NA
+Costa,Sandbach Services M6,Northbound,TRUE,FALSE,TRUE,NA,TRUE
+Costa,Sandbach Services M6,Southbound,TRUE,FALSE,TRUE,NA,TRUE
+McDonald's,Sandbach Services M6,Southbound,TRUE,TRUE,TRUE,NA,NA
+Hot Food Co,Sandbach Services M6,Southbound,TRUE,TRUE,NA,NA,NA
+SOHO Coffee Co,Strensham Services M5,Northbound,TRUE,NA,TRUE,NA,TRUE
+Hot Food Co,Strensham Services M5,Northbound,TRUE,TRUE,NA,NA,NA
+McDonald's,Strensham Services M5,Northbound,TRUE,TRUE,TRUE,NA,NA
+Pizza Hut,Strensham Services M5,Northbound,TRUE,TRUE,TRUE,NA,NA
+Costa,Strensham Services M5,Southbound,TRUE,FALSE,TRUE,NA,TRUE
+Hot Food Co,Strensham Services M5,Southbound,TRUE,TRUE,NA,NA,NA
+McDonald's,Strensham Services M5,Southbound,TRUE,TRUE,TRUE,NA,NA
+SOHO Coffee Co,Strensham Services M5,Southbound,TRUE,NA,TRUE,NA,TRUE
+Costa,Tibshelf Services M1,Northbound,TRUE,FALSE,TRUE,NA,TRUE
+Restbite,Tibshelf Services M1,Northbound,TRUE,NA,NA,NA,TRUE
+McDonald's,Tibshelf Services M1,Northbound,TRUE,TRUE,TRUE,NA,NA
+Costa,Tibshelf Services M1,Southbound,TRUE,FALSE,TRUE,NA,TRUE
+Restbite,Tibshelf Services M1,Southbound,TRUE,NA,NA,NA,TRUE
+McDonald's,Tibshelf Services M1,Southbound,TRUE,TRUE,TRUE,NA,NA
+Costa,Watford Gap Services M1,Northbound,TRUE,FALSE,TRUE,NA,TRUE
+Fresh Food Cafe,Watford Gap Services M1,Northbound,TRUE,FALSE,TRUE,NA,TRUE
+McDonald's,Watford Gap Services M1,Northbound,TRUE,TRUE,TRUE,NA,NA
+Costa,Watford Gap Services M1,Southbound,TRUE,FALSE,TRUE,NA,TRUE
+Restbite,Watford Gap Services M1,Southbound,TRUE,NA,NA,NA,TRUE
+The Burger Company,Watford Gap Services M1,Southbound,TRUE,TRUE,TRUE,NA,NA
+WHSmiths,Northampton Services M1,Northbound,TRUE,NA,NA,TRUE,NA
+WHSmiths,Northampton Services M1,Southbound,TRUE,NA,NA,TRUE,NA
+FoneBiz,Northampton Services M1,Northbound,FALSE,NA,NA,NA,NA
+FoneBiz,Northampton Services M1,Southbound,FALSE,NA,NA,NA,NA
+WHSmiths,Rownhams Services M27,Eastbound,TRUE,NA,NA,TRUE,NA
+WHSmiths,Rownhams Services M27,Westbound,TRUE,NA,NA,TRUE,NA
+WHSmiths,Sandbach Services M6,Northbound,TRUE,NA,NA,TRUE,NA
+WHSmiths,Sandbach Services M6,Southbound,TRUE,NA,NA,TRUE,NA
+WHSmiths,Strensham Services M5,Northbound,TRUE,NA,NA,TRUE,NA
+WHSmiths,Strensham Services M5,Southbound,TRUE,NA,NA,TRUE,NA
+Cotton Traders,Strensham Services M5,Northbound,FALSE,FALSE,NA,NA,NA
+Cotton Traders,Strensham Services M5,Southbound,FALSE,FALSE,NA,NA,NA
+WHSmiths,Tibshelf Services M1,Northbound,TRUE,NA,NA,TRUE,NA
+WHSmiths,Tibshelf Services M1,Southbound,TRUE,NA,NA,TRUE,NA
+FoneBiz,Tibshelf Services M1,Northbound,FALSE,NA,NA,NA,NA
+FoneBiz,Tibshelf Services M1,Southbound,FALSE,NA,NA,NA,NA
+WHSmiths,Watford Gap Services M1,Northbound,TRUE,NA,NA,TRUE,NA
+WHSmiths,Watford Gap Services M1,Southbound,TRUE,NA,NA,TRUE,NA
+Cotton Traders,Watford Gap Services M1,Northbound,FALSE,FALSE,NA,NA,NA
+Cotton Traders,Watford Gap Services M1,Southbound,FALSE,FALSE,NA,NA,NA
+Gamezone,Newport Pagnell Services M1,Directionless,FALSE,NA,NA,NA,NA
+WHSmiths,Newport Pagnell Services M1,Directionless,TRUE,NA,NA,TRUE,NA
+Waitrose,Newport Pagnell Services M1,Directionless,TRUE,NA,NA,TRUE,NA
+Retail Shop,Abington Services M74,Directionless,FALSE,NA,NA,NA,NA
+WHSmiths,Abington Services M74,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Annandale Water Services A74(M),Directionless,TRUE,NA,NA,TRUE,NA
+M&S,Baldock Services A1(M),Directionless,TRUE,NA,NA,TRUE,NA
+Costa,Baldock Services A1(M),Directionless,TRUE,FALSE,TRUE,NA,TRUE
+M&S,Beaconsfield Services M40,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Beaconsfield Services M40,Directionless,TRUE,NA,NA,TRUE,NA
+Top Gift,Beaconsfield Services M40,Directionless,FALSE,NA,NA,NA,NA
+Regus Business Lounge,Beaconsfield Services M40,Directionless,FALSE,NA,NA,NA,NA
+Quicksilver,Beaconsfield Services M40,Directionless,FALSE,NA,NA,NA,NA
+M&S,Birch Services M62,Directionless,TRUE,NA,NA,TRUE,NA
+Ladbrokes,Birch Services M62,Directionless,FALSE,NA,NA,NA,NA
+FoneBiz,Birch Services M62,Directionless,FALSE,NA,NA,NA,NA
+WHSmiths,Birch Services M62,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Birchanger Green Services M11,Directionless,TRUE,NA,NA,TRUE,NA
+Waitrose,Birchanger Green Services M11,Directionless,TRUE,NA,NA,TRUE,NA
+Starbucks,Birchanger Green Services M11,Directionless,TRUE,NA,TRUE,NA,TRUE
+FoneBiz,Birchanger Green Services M11,Directionless,FALSE,NA,NA,NA,NA
+The Co-Operative Food,Blackburn with Darwen Services M65,Directionless,TRUE,NA,NA,TRUE,NA
+Budgens,Blackburn with Darwen Services M65,Directionless,TRUE,FALSE,NA,TRUE,NA
+WHSmiths,Blyth Services A1(M),Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Bothwell Services M74,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Bridgwater Services M5,Directionless,TRUE,NA,NA,TRUE,NA
+M&S,Bridgwater Services M5,Directionless,TRUE,NA,NA,TRUE,NA
+Costa,Bridgwater Services M5,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+WHSmiths,Burton-in-Kendal Services M6,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Burton-in-Kendal Services M6,Directionless,TRUE,NA,NA,TRUE,NA
+Retail Shop,Burtonwood Services M62,Directionless,FALSE,NA,NA,NA,NA
+WHSmiths,Burtonwood Services M62,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Cambridge Services A14,Directionless,TRUE,NA,NA,TRUE,NA
+M&S,Cambridge Services A14,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Cambridge Services A14,Directionless,TRUE,NA,NA,TRUE,NA
+Quicksilver,Cambridge Services A14,Directionless,FALSE,NA,NA,NA,NA
+Waitrose,Cardiff Gate Services M4,Directionless,TRUE,NA,NA,TRUE,NA
+Welcome Break Gaming,Cardiff Gate Services M4,Directionless,FALSE,NA,NA,NA,NA
+WHSmiths,Cardiff West Services M4,Directionless,TRUE,NA,NA,TRUE,NA
+Showers,Castlebellingham Services M1 Ireland,Directionless,FALSE,NA,NA,NA,NA
+Tourist Information,Castlebellingham Services M1 Ireland,Directionless,FALSE,NA,NA,NA,NA
+Children's Play Area,Castlebellingham Services M1 Ireland,Directionless,FALSE,FALSE,NA,NA,NA
+Game Arcade,Castlebellingham Services M1 Ireland,Directionless,FALSE,NA,NA,NA,NA
+Shop,Castlebellingham Services M1 Ireland,Directionless,TRUE,NA,NA,NA,NA
+WHSmiths,Charnock Richard Services M6,Directionless,TRUE,NA,NA,TRUE,NA
+Starbucks,Charnock Richard Services M6,Directionless,TRUE,NA,TRUE,NA,TRUE
+WHSmiths,Charnock Richard Services M6,Directionless,TRUE,NA,NA,TRUE,NA
+Waitrose,Charnock Richard Services M6,Directionless,TRUE,NA,NA,TRUE,NA
+M&S,Cherwell Valley Services M40,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Cherwell Valley Services M40,Directionless,TRUE,NA,NA,TRUE,NA
+Greggs,Cherwell Valley Services M40,Directionless,TRUE,TRUE,TRUE,NA,TRUE
+West Cornwall Pasty Company,Cherwell Valley Services M40,Directionless,TRUE,NA,NA,NA,TRUE
+FoneBiz,Cherwell Valley Services M40,Directionless,FALSE,NA,NA,NA,NA
+Cotton Traders,Cherwell Valley Services M40,Directionless,FALSE,FALSE,NA,NA,NA
+Travellers,Cherwell Valley Services M40,Directionless,FALSE,NA,NA,NA,NA
+WHSmiths,Chester Services M56,Directionless,TRUE,NA,NA,TRUE,NA
+Cotton Traders,Chester Services M56,Directionless,FALSE,FALSE,NA,NA,NA
+WHSmiths,Chester Services M56,Directionless,TRUE,NA,NA,TRUE,NA
+SPAR,Chester Services M56,Directionless,TRUE,NA,NA,TRUE,NA
+FoneBiz,Chester Services M56,Directionless,FALSE,NA,NA,NA,NA
+M&S,Chieveley Services M4,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Chieveley Services M4,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Chieveley Services M4,Directionless,TRUE,NA,NA,TRUE,NA
+M&S,Chieveley Services M4,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Clacket Lane Services M25,Directionless,TRUE,NA,NA,TRUE,NA
+FoneBiz,Clacket Lane Services M25,Directionless,FALSE,NA,NA,NA,NA
+Cotton Traders,Clacket Lane Services M25,Directionless,FALSE,FALSE,NA,NA,NA
+Quicksilver,Cobham Services M25,Directionless,FALSE,NA,NA,NA,NA
+Regus Business Lounge,Cobham Services M25,Directionless,FALSE,NA,NA,NA,NA
+Children's Play Area,Cobham Services M25,Directionless,FALSE,FALSE,NA,NA,NA
+WHSmiths,Cobham Services M25,Directionless,TRUE,NA,NA,TRUE,NA
+Retail Shop,Corley Services M6,Directionless,FALSE,NA,NA,NA,NA
+WHSmiths,Cullompton Services M5,Directionless,TRUE,NA,NA,TRUE,NA
+Gamegrid,Cullompton Services M5,Directionless,FALSE,NA,NA,NA,NA
+Retail Shop,Derby South Services Eastbound A50,Directionless,FALSE,NA,NA,NA,NA
+WHSmiths,Derby South Services Westbound A50,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Doncaster North Services M18,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Doncaster North Services M18,Directionless,TRUE,NA,NA,TRUE,NA
+M&S,Donington Park Services M1,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Donington Park Services M1,Directionless,TRUE,NA,NA,TRUE,NA
+FoneBiz,Donington Park Services M1,Directionless,FALSE,NA,NA,NA,NA
+Cotton Traders,Donington Park Services M1,Directionless,FALSE,FALSE,NA,NA,NA
+WHSmiths,Durham Services A1(M),Directionless,TRUE,NA,NA,TRUE,NA
+Showers,Enfield Services M4 Ireland,Directionless,FALSE,NA,NA,NA,NA
+Tourist Information,Enfield Services M4 Ireland,Directionless,FALSE,NA,NA,NA,NA
+Children's Play Area,Enfield Services M4 Ireland,Directionless,FALSE,FALSE,NA,NA,NA
+Game Arcade,Enfield Services M4 Ireland,Directionless,FALSE,NA,NA,NA,NA
+Shop,Enfield Services M4 Ireland,Directionless,TRUE,NA,NA,NA,NA
+M&S,Ferrybridge Services M62,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Ferrybridge Services M62,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Ferrybridge Services M62,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Fleet Services M3,Directionless,TRUE,NA,NA,TRUE,NA
+Waitrose,Fleet Services M3,Directionless,TRUE,NA,NA,TRUE,NA
+M&S,Frankley Services M5,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Frankley Services M5,Directionless,TRUE,NA,NA,TRUE,NA
+Farm Shop,Gloucester Services Northbound M5,Directionless,TRUE,NA,NA,TRUE,NA
+Farm Shop,Gloucester Services Southbound M5,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Gordano Services M5,Directionless,TRUE,NA,NA,TRUE,NA
+Waitrose,Gordano Services M5,Directionless,TRUE,NA,NA,TRUE,NA
+FoneBiz,Gordano Services M5,Directionless,FALSE,NA,NA,NA,NA
+WHSmiths,Grantham North Services A1,Directionless,TRUE,NA,NA,TRUE,NA
+Retail Shop,Gretna Green Services M74,Directionless,FALSE,NA,NA,NA,NA
+WHSmiths,Gretna Green Services M74,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Hamilton Services M74,Directionless,TRUE,NA,NA,TRUE,NA
+Retail Shop,Hartshead Moor Services M62,Directionless,FALSE,NA,NA,NA,NA
+WHSmiths,Hartshead Moor Services M62,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Heston Services M4,Directionless,TRUE,NA,NA,TRUE,NA
+M&S,Hilton Park Services M6,Directionless,TRUE,NA,NA,TRUE,NA
+Ladbrokes,Hilton Park Services M6,Directionless,FALSE,NA,NA,NA,NA
+Cotton Traders,Hilton Park Services M6,Directionless,FALSE,FALSE,NA,NA,NA
+phonebitz,Hilton Park Services M6,Directionless,FALSE,NA,NA,NA,NA
+Waitrose,Hopwood Park Services M42,Directionless,TRUE,NA,NA,TRUE,NA
+Westmorland shop,J38 Truckstop M6,Directionless,TRUE,NA,NA,NA,NA
+Westmorland shop,J38 Truckstop M6,Directionless,TRUE,NA,NA,NA,NA
+Retail Shop,Keele Services M6,Directionless,FALSE,NA,NA,NA,NA
+Waitrose,Keele Services M6,Directionless,TRUE,NA,NA,TRUE,NA
+FoneBiz,Keele Services M6,Directionless,FALSE,NA,NA,NA,NA
+WHSmiths,Killington Lake Services M6,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Killington Lake Services M6,Directionless,TRUE,NA,NA,TRUE,NA
+M&S,Kinross Services M90,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Kinross Services M90,Directionless,TRUE,NA,NA,TRUE,NA
+Upper Crust,Knutsford Services M6,Directionless,TRUE,NA,TRUE,NA,TRUE
+M&S,Knutsford Services M6,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Knutsford Services M6,Directionless,TRUE,NA,NA,TRUE,NA
+M&S,Lancaster (Forton) Services M6,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Lancaster (Forton) Services M6,Directionless,TRUE,NA,NA,TRUE,NA
+Ladbrokes,Lancaster (Forton) Services M6,Directionless,FALSE,NA,NA,NA,NA
+FoneBiz,Lancaster (Forton) Services M6,Directionless,FALSE,NA,NA,NA,NA
+SPAR,Leicester (Markfield) Services M1,Directionless,TRUE,NA,NA,TRUE,NA
+Retail Shop,Leicester Forest East Services M1,Directionless,FALSE,NA,NA,NA,NA
+FoneBiz,Leicester Forest East Services M1,Directionless,FALSE,NA,NA,NA,NA
+M&S,Leigh Delamere Services M4,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Leigh Delamere Services M4,Directionless,TRUE,NA,NA,TRUE,NA
+FoneBiz,Leigh Delamere Services M4,Directionless,FALSE,NA,NA,NA,NA
+Lucky Coin,Leigh Delamere Services M4,Directionless,FALSE,NA,NA,NA,NA
+Barber Shop,Leigh Delamere Services M4,Directionless,FALSE,FALSE,NA,NA,NA
+FoneBiz,Leigh Delamere Services M4,Directionless,FALSE,NA,NA,NA,NA
+Retail Shop,London Gateway Services M1,Directionless,FALSE,NA,NA,NA,NA
+WHSmiths,London Gateway Services M1,Directionless,TRUE,NA,NA,TRUE,NA
+Showers,Lusk Services M1 Ireland,Directionless,FALSE,NA,NA,NA,NA
+Tourist Information,Lusk Services M1 Ireland,Directionless,FALSE,NA,NA,NA,NA
+Children's Play Area,Lusk Services M1 Ireland,Directionless,FALSE,FALSE,NA,NA,NA
+Game Arcade,Lusk Services M1 Ireland,Directionless,FALSE,NA,NA,NA,NA
+Shop,Lusk Services M1 Ireland,Directionless,TRUE,NA,NA,NA,NA
+M&S,Lymm Services M6,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Lymm Services M6,Directionless,TRUE,NA,NA,TRUE,NA
+Barbers,Lymm Services M6,Directionless,FALSE,FALSE,NA,NA,NA
+CB Shack,Lymm Services M6,Directionless,FALSE,FALSE,NA,NA,NA
+Truckwash,Lymm Services M6,Directionless,FALSE,NA,NA,NA,NA
+WHSmiths,Magor Services M4,Directionless,TRUE,NA,NA,TRUE,NA
+Cotton Traders,Magor Services M4,Directionless,FALSE,FALSE,NA,NA,NA
+WHSmiths,Maidstone Services M20,Directionless,TRUE,NA,NA,TRUE,NA
+Cotton Traders,Maidstone Services M20,Directionless,FALSE,FALSE,NA,NA,NA
+WHSmiths,Medway Services M2,Directionless,TRUE,NA,NA,TRUE,NA
+Lucky Coin,Medway Services M2,Directionless,FALSE,NA,NA,NA,NA
+mobile phone stand,Medway Services M2,Directionless,TRUE,NA,NA,NA,NA
+WHSmiths,Membury Services M4,Directionless,TRUE,NA,NA,TRUE,NA
+Waitrose,Membury Services M4,Directionless,TRUE,NA,NA,TRUE,NA
+FoneBiz,Membury Services M4,Directionless,FALSE,NA,NA,NA,NA
+WHSmiths,Michaelwood Services M5,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Newport Pagnell Services M1,Directionless,TRUE,NA,NA,TRUE,NA
+Waitrose,Newport Pagnell Services M1,Directionless,TRUE,NA,NA,TRUE,NA
+FoneBiz,Newport Pagnell Services M1,Directionless,FALSE,NA,NA,NA,NA
+WHSmiths,Newport Pagnell Services M1,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Norton Canes Services M6 Toll,Directionless,TRUE,NA,NA,TRUE,NA
+FoneBiz,Norton Canes Services M6 Toll,Directionless,FALSE,NA,NA,NA,NA
+Waitrose,Oxford Services M40,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Oxford Services M40,Directionless,TRUE,NA,NA,TRUE,NA
+M&S,Pease Pottage Services M23,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Pease Pottage Services M23,Directionless,TRUE,NA,NA,TRUE,NA
+McColl's,Peterborough Services A1(M),Directionless,TRUE,NA,NA,TRUE,NA
+M&S,Peterborough Services A1(M),Directionless,TRUE,NA,NA,TRUE,NA
+Namco,Peterborough Services A1(M),Directionless,FALSE,NA,NA,NA,NA
+Vegas,Peterborough Services A1(M),Directionless,FALSE,NA,NA,NA,NA
+WHSmiths,Pont Abraham Services M4,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Reading Services M4,Directionless,TRUE,NA,NA,TRUE,NA
+M&S,Reading Services M4,Directionless,TRUE,NA,NA,TRUE,NA
+Coffee Nation,Reading Services M4,Directionless,TRUE,TRUE,TRUE,NA,TRUE
+T2,Reading Services M4,Directionless,FALSE,NA,NA,NA,NA
+The Body Shop,Reading Services M4,Directionless,FALSE,NA,NA,NA,NA
+Claire's,Reading Services M4,Directionless,FALSE,FALSE,NA,NA,NA
+The Sock Shop,Reading Services M4,Directionless,FALSE,NA,NA,NA,NA
+Birthdays,Reading Services M4,Directionless,FALSE,FALSE,NA,NA,NA
+Halfords,Reading Services M4,Directionless,FALSE,NA,NA,NA,NA
+Knickerbox,Reading Services M4,Directionless,FALSE,NA,NA,NA,NA
+SPAR,Rivington Services M61,Directionless,TRUE,NA,NA,TRUE,NA
+Retail Shop,Sarn Park Services M4,Directionless,FALSE,NA,NA,NA,NA
+M&S,Scotch Corner Services A1(M),Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Scotch Corner Services A1(M),Directionless,TRUE,NA,NA,TRUE,NA
+Top Gift,Scotch Corner Services A1(M),Directionless,FALSE,NA,NA,NA,NA
+Retail Shop,Sedgemoor Services Northbound M5,Directionless,FALSE,NA,NA,NA,NA
+Gamezone,Sedgemoor Services Northbound M5,Directionless,FALSE,NA,NA,NA,NA
+WHSmiths,Sedgemoor Services Southbound M5,Directionless,TRUE,NA,NA,TRUE,NA
+Retail Shop,Sedgemoor Services Southbound M5,Directionless,FALSE,NA,NA,NA,NA
+Scoop,Severn View Services M48,Directionless,TRUE,NA,NA,NA,TRUE
+WHSmiths,Severn View Services M48,Directionless,TRUE,NA,NA,TRUE,NA
+Waitrose,South Mimms Services M25,Directionless,TRUE,NA,NA,TRUE,NA
+M&S,Southwaite Services M6,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Southwaite Services M6,Directionless,TRUE,NA,NA,TRUE,NA
+M&S,Stafford Services Northbound M6,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Stafford Services Northbound M6,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Stafford Services Northbound M6,Directionless,TRUE,NA,NA,TRUE,NA
+Krispy Kreme,Stafford Services Northbound M6,Directionless,TRUE,TRUE,TRUE,NA,TRUE
+M&S,Stafford Services Northbound M6,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Stafford Services Southbound M6,Directionless,TRUE,NA,NA,TRUE,NA
+FoneBiz,Stafford Services Southbound M6,Directionless,FALSE,NA,NA,NA,NA
+Leaf Gifts,Stafford Services Southbound M6,Directionless,FALSE,NA,NA,NA,NA
+WHSmiths,Stirling Services M9,Directionless,TRUE,NA,NA,TRUE,NA
+Gaming Center,Stirling Services M9,Directionless,FALSE,NA,NA,NA,NA
+Tourist Information,Stirling Services M9,Directionless,FALSE,NA,NA,NA,NA
+WHSmiths,Stop24 Services (Folkestone) M20,Directionless,TRUE,NA,NA,TRUE,NA
+Xchange ( Bureau de Change),Stop24 Services (Folkestone) M20,Directionless,TRUE,NA,NA,NA,NA
+WHSmiths,Swansea West M4,Directionless,TRUE,NA,NA,TRUE,NA
+M&S,Tamworth Services M42,Directionless,TRUE,NA,NA,TRUE,NA
+SPAR,Tamworth Services M42,Directionless,TRUE,NA,NA,TRUE,NA
+Ladbrokes,Tamworth Services M42,Directionless,FALSE,NA,NA,NA,NA
+WHSmiths,Tamworth Services M42,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Taunton Deane Services M5,Directionless,TRUE,NA,NA,TRUE,NA
+Retail Shop,Telford Services M54,Directionless,FALSE,NA,NA,NA,NA
+M&S,Thurrock Services M25,Directionless,TRUE,NA,NA,TRUE,NA
+Moto Shop,Thurrock Services M25,Directionless,TRUE,NA,NA,NA,NA
+WHSmiths,Thurrock Services M25,Directionless,TRUE,NA,NA,TRUE,NA
+M&S,Toddington Services M1,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Toddington Services M1,Directionless,TRUE,NA,NA,TRUE,NA
+FoneBiz,Toddington Services M1,Directionless,FALSE,NA,NA,NA,NA
+Cotton Traders,Toddington Services M1,Directionless,FALSE,FALSE,NA,NA,NA
+M&S,Trowell Services M1,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Trowell Services M1,Directionless,TRUE,NA,NA,TRUE,NA
+FoneBiz,Trowell Services M1,Directionless,FALSE,NA,NA,NA,NA
+Waitrose,Warwick Services Northbound M40,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Warwick Services Northbound M40,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Warwick Services Southbound M40,Directionless,TRUE,NA,NA,TRUE,NA
+Waitrose,Warwick Services Southbound M40,Directionless,TRUE,NA,NA,TRUE,NA
+BP,Warwick Services Southbound M40,Directionless,TRUE,FALSE,NA,NA,NA
+FoneBiz,Warwick Services Southbound M40,Directionless,FALSE,NA,NA,NA,NA
+WHSmiths,Washington Services A1(M),Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Washington Services A1(M),Directionless,TRUE,NA,NA,TRUE,NA
+M&S,Wetherby Services A1(M),Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Wetherby Services A1(M),Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Winchester Services M3,Directionless,TRUE,NA,NA,TRUE,NA
+Full House,Winchester Services M3,Directionless,FALSE,NA,NA,NA,NA
+WHSmiths,Woodall Services M1,Directionless,TRUE,NA,NA,TRUE,NA
+Phone Bitz,Woodall Services M1,Directionless,FALSE,NA,NA,NA,NA
+Waitrose,Woodall Services M1,Directionless,TRUE,NA,NA,TRUE,NA
+M&S,Woolley Edge Services M1,Directionless,TRUE,NA,NA,TRUE,NA
+WHSmiths,Woolley Edge Services M1,Directionless,TRUE,NA,NA,TRUE,NA

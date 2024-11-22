@@ -1,0 +1,186 @@
+name,motorway,where,postcode,type,operator,p_charges,has_charge,is_single,is_twin,has_walk,pair_name,is_pair
+Abington Services M74,M74,at J13,ML12 6RG,"Single site, used by traffic in both directions",Welcome Break,"Cars free for the first 2 hours then £5 for up to 6 hours on site then £12 for up to 24Hr periods. 
+HGVs £24 with a £9 meal voucher and £20 without a meal voucher",NA,TRUE,FALSE,NA,NA,FALSE
+Annandale Water Services A74(M),A74(M),at J16,DG11 1HD,"Single site, used by traffic in both directions",RoadChef,"Parking Free for up to 2 hours after which time the following charges apply for up to 24 hours
+Cars £10
+HGV £18
+HGV with £10 food voucher £20
+Caravans/Medium Goods Vehicles/Large Motor Homes £18",Yes (More details at PiV Charge UK),TRUE,FALSE,NA,NA,FALSE
+Baldock Services A1(M),A1(M),at J10 and from A507,SG7 5TR,"Single site, used by traffic in both directions",Extra MSA,First two hours free for all vehicles,NA,TRUE,FALSE,NA,NA,FALSE
+Beaconsfield Services M40,M40,at J2 and from A355,HP9 2SE,"Single site, used by traffic in both directions",Extra MSA,NA,NA,TRUE,FALSE,NA,NA,FALSE
+Birch Services M62,M62,between junctions J18-19,OL10 2HQ,"Separate facilities for each carriageway, but linked by a pedestrian footbridge",Moto,"Car - £12.50, HGV with a food voucher - £21.50, without a voucher - £20.00 after two hours",NA,FALSE,TRUE,TRUE,NA,FALSE
+Birchanger Green Services M11,M11,at J8 and from A120,CM23 5QZ,"Single site, used by traffic in both directions",Welcome Break,"Parking is free of charge to all customers for the first 2 hours, thereafter charges apply:. Cars: £10.00. Caravans, Coaches and HGVs: £23.50�including £8.00 meal voucher or £21.00 without voucher.",NA,TRUE,FALSE,NA,NA,FALSE
+Blackburn with Darwen Services M65,M65,at J4 and from A666,BB3 0AT,"Single site, used by traffic in both directions",Extra MSA,"Parking is free to all customers for the first 2 hours, thereafter charges apply to all vehicles of ï��20",NA,TRUE,FALSE,NA,NA,FALSE
+Blyth Services A1(M),A1(M),at J34,S81 8HG,"Single site, used by traffic in both directions",Moto,"Free for 2 hours, charges apply for longer stays. HGV with food voucher: Â£15 (without voucher: Â£13) - Car: Â£8",Yes (More details at PiV Charge UK),TRUE,FALSE,NA,NA,FALSE
+Bothwell Services M74,M74,between junctions J4-5,G71 8BG,Facilities accessible from one direction only,RoadChef,"Parking free for up to 2 hours, after which time the following charges apply
+Cars £12
+HGV £19
+(HGV with £10 food voucher £21)
+Caravans/Medium Goods Vehicles/Large Motor Homes £19",Yes (More details at PiV Charge UK),FALSE,FALSE,NA,NA,FALSE
+Bridgwater Services M5,M5,at J24 and from A38,TA6 6TS,"Single site, used by traffic in both directions",Moto,"Cars - Â£12 for 24hrs, HGV - Â£17, HGV with a Â£9 food voucher Â£18.50",NA,TRUE,FALSE,NA,NA,FALSE
+Burton-in-Kendal Services M6,M6,between junctions J35-36,LA6 1JF,Facilities accessible from one direction only,Moto,"Free for 2 hours, charges apply for longer stays. HGV with food voucher: Â£15 (without voucher: Â£13), Car: Â£8",NA,FALSE,FALSE,NA,NA,FALSE
+Burtonwood Services M62,M62,between junctions J8-9,WA5 3AX,"Single site, used by traffic in both directions",Welcome Break,"Free for two hours, charges apply for longer stays. Cars: £10.00, including a £2.00 meal voucher. Caravans, Coaches and HGVs: £18.50 including a £7.00 meal voucher or £16.00 with no voucher",NA,TRUE,FALSE,NA,NA,FALSE
+Cambridge Services A14,A14,14 miles north of Cambridge,CB23 4WU,"Single site, used by traffic in both directions",Extra MSA,Three hours free parking for all vehicles. Â£28 per 24hrs after that.,NA,TRUE,FALSE,NA,NA,FALSE
+Cardiff Gate Services M4,M4,at J30 and from A4232 Pentwyn Link Road,CF23 8RA,"Single site, used by traffic in both directions",Welcome Break,"Car - 24 Hours - Â£10
+HGV - 24 Hours - Â£16 with Food
+HGC - 24 Hours - Â£14 without Food",Yes (More details at PiV Charge UK),TRUE,FALSE,NA,NA,FALSE
+Cardiff West Services M4,M4,at J33 and from A4232,CF72 8SA,"Single site, used by traffic in both directions",Moto,"£12.50 car,
+£17.50 HGV,
+£19.00 HGV with food voucher",NA,TRUE,FALSE,NA,NA,FALSE
+Charnock Richard Services M6,M6,between junctions J27-28,PR7 5LR,Shared main facilities building but separate car parks and access for each carriageway,Welcome Break,"Free for two hours, charges apply for longer stays. Cars: £8.00, including a £2.00 meal voucher. Caravans, Coaches and HGVs: £17.50, including a £7.00 meal voucher.",NA,FALSE,FALSE,NA,NA,FALSE
+Cherwell Valley Services M40,M40,at J10 and from A43,OX27 7RD,"Single site, used by traffic in both directions",Moto,"Cars £12 for 24hrs, HGV £22 parking only & £23.50 with £9 meal voucher",Yes (More details at PiV Charge UK),TRUE,FALSE,NA,NA,FALSE
+Chester Services M56,M56,at J14 and from A5117,CH2 4QZ,"Single site, used by traffic in both directions",RoadChef,"First two hours free for all vehicles, after which cars must pay ï��12 and HGVs, caravans and coaches ï��24, or ï��26 to include a ï��10 food voucher.
+
+Prices are paid using PayByPhone - more details or in the shop or restaurant. The location code is 5267.
+
+The fees are strictly enforced by CP Plus.",NA,TRUE,FALSE,NA,NA,FALSE
+Chieveley Services M4,M4,at J13,RG189XX,"Single site, used by traffic in both directions",Moto,"£16 for 24 hours long stay behind Travelodge, pay using PayByPhone system and credit/debit card
+£15 for 24 hours short stay in main car park to the right pay in WHS or EDC",NA,TRUE,FALSE,NA,NA,FALSE
+Clacket Lane Services M25,M25,between junctions J5-6 and from Clacket Lane,TN16 2ER,"Separate facilities for each carriageway, with no link between them",RoadChef,"Free for 2 hours after which time the following charges apply for up to 24 hours 
+Cars £12
+HGV £26
+HGV with £10 food voucher £30
+Caravans/Medium Goods Vehicles/large Motor Homes £26",Yes (More details at PiV Charge UK),FALSE,TRUE,FALSE,NA,FALSE
+Cobham Services M25,M25,between junctions J9 - 10,KT11 3DB,"Separate facilities for each carriageway, with no link between them",Extra MSA,NA,NA,FALSE,TRUE,FALSE,NA,FALSE
+Corley Services M6,M6,between junctions J3-4,CV7 8NR,"Separate facilities for each carriageway, but linked by a pedestrian footbridge",Welcome Break,"Free for two hours, charges apply for longer stays. Cars: £10.00. Caravans, Coaches and HGVs: £28, including a £10.00 meal voucher.",NA,FALSE,TRUE,TRUE,NA,FALSE
+Cullompton Services M5,M5,"at J28 and from A373, B3181",EX15,"Single site, used by traffic in both directions",Extra MSA,NA,NA,TRUE,FALSE,NA,NA,FALSE
+Derby South Services Eastbound A50,A50,2 miles east of junction with M1,DE72 2WA,Facilities accessible from one direction only,Welcome Break,"Parking is free to all customers for the first 2 hours, thereafter charges apply:. Cars £6.00, including a £2 meal voucher. HGV, Caravans & Coaches £14.00, including a £6 meal voucher.",Yes (More details at PiV Charge UK),FALSE,FALSE,NA,Derby South Services Eastbound A50 A50,TRUE
+Derby South Services Westbound A50,A50,2 miles east of junction with M1,,Facilities accessible from one direction only,Welcome Break,"Parking is free to all customers for the first 2 hours, thereafter charges apply:. Cars £6.00, including a £2 meal voucher. HGV, Caravans & Coaches £14.00, including a £6 meal voucher.",Yes (More details at PiV Charge UK),FALSE,FALSE,NA,Derby South Services Westbound A50 A50,TRUE
+Doncaster North Services M18,M18,at J5 and from M180,DN8 5GS,"Single site, used by traffic in both directions",Moto,"Free for 2 hours, charges apply for longer stays. HGV with food voucher: Â£16 (without voucher: Â£14) - Car: Â£8",Yes (More details at PiV Charge UK),TRUE,FALSE,NA,NA,FALSE
+Donington Park Services M1,M1,"23A and from A42, M42 and A50",DE74 2TN,"Single site, used by traffic in both directions",Moto,"Free for 2 hours, charges apply for longer stays. HGV with food voucher: Â£16 (without voucher: Â£14) - Car: Â£10",Yes (More details at PiV Charge UK),TRUE,FALSE,NA,NA,FALSE
+Durham Services A1(M),A1(M),"at J61 and from A688, A177",DH6 5NP,"Single site, used by traffic in both directions",RoadChef,"Free for up to 2 hours, then the following charges apply for up to 24 hours
+Cars ï��10
+HGV ï��19
+HGV with ï��10 food voucher ï��21
+Caravans/Medium Goods Vehicles/Large Motor Homes ï��19",NA,TRUE,FALSE,NA,NA,FALSE
+Exeter Services M5,M5,at J30,EX2 7HF,"Single site, used by traffic in both directions",Moto,"Free for 2 Hours
+Car Park: £12.50 (2-24hrs)
+HGV with food voucher: £23.50
+(food voucher value: £9.00)
+HGV without food voucher: £22.00
+Caravans / Motorhomes: £22.00",NA,TRUE,FALSE,NA,NA,FALSE
+Ferrybridge Services M62,M62,at J33,WF11 OAF,"Single site, used by traffic in both directions",Moto,"Free for 2 hours, charges apply for longer stays. HGV with food voucher: £21.00 (without voucher: £19.50) - Car: £12",NA,TRUE,FALSE,NA,NA,FALSE
+Fleet Services M3,M3,between junctions J4A-5,GU51 1AA,"Separate facilities for each carriageway, but linked by a pedestrian footbridge",Welcome Break,"Free for two hours, charges apply for longer stays. Cars: £11.00. Caravans, Coaches and HGVs: £23.50, including a £8.00 meal voucher.",NA,FALSE,TRUE,TRUE,NA,FALSE
+Frankley Services M5,M5,between junctions J3-4,B32 4AR,"Separate facilities for each carriageway, with no link between them",Moto,"Car Â£12.50
+HGV with meal vouchers Â£22.50
+HGV withoug meal vouchers Â£21.00",NA,FALSE,TRUE,FALSE,NA,FALSE
+Gloucester Services Northbound M5,M5,between junctions J12-11a,GL4 0DN,Facilities accessible from one direction only,Westmorland,NA,NA,FALSE,FALSE,NA,Gloucester Services Northbound M5 M5,TRUE
+Gloucester Services Southbound M5,M5,between junctions J11a-12,GL4 0DN,Facilities accessible from one direction only,Westmorland,NA,NA,FALSE,FALSE,NA,Gloucester Services Southbound M5 M5,TRUE
+Gordano Services M5,M5,at J19 and from A361,BS20 7XG,"Single site, used by traffic in both directions",Welcome Break,"Free for two hours, charges apply for longer stays. Cars: £10.00. Caravans, Coaches and HGVs: £16.00.",NA,TRUE,FALSE,NA,NA,FALSE
+Grantham North Services A1,A1,Gonerby Moor and from B1174 Great North Road,NG32 2AB,"Single site, used by traffic in both directions",Moto,"Free for 2 hours, charges apply for longer stays. HGV with food voucher: Â£18 (without voucher: Â£16), Car: Â£8",Yes (More details at PiV Charge UK),TRUE,FALSE,NA,NA,FALSE
+Gretna Green Services M74,M74,between junctions J21-22,DG16 5HQ,"Single site, used by traffic in both directions",Welcome Break,"Parking is free to all customers for the first 2 hours, thereafter charges apply:. Cars £8.00, including a £2 meal voucher. HGV, Caravans & Coaches £18.50, including a £7 meal voucher.",NA,TRUE,FALSE,NA,NA,FALSE
+Hamilton Services M74,M74,between junctions J5-6,ML3 6JW,Facilities accessible from one direction only,RoadChef,"Free for up to 2 hours, then the following charges apply for up to 24 hours
+Cars Â£10
+HGV Â£20
+HGV with Â£10 food voucher Â£22
+Caravans/Medium Goods Vehicles/Large Motor Homes Â£20",Yes (More details at PiV Charge UK),FALSE,FALSE,NA,NA,FALSE
+Happendon Services M74,M74,between junctions J11-12,ML11 0RJ,"Single site, used by traffic in both directions",Westmorland,"HGV £9, Cars £3, Caravans £4",NA,TRUE,FALSE,NA,NA,FALSE
+Hartshead Moor Services M62,M62,between junctions J25-26,HD6 4JX,"Separate facilities for each carriageway, but linked by a pedestrian footbridge",Welcome Break,"Parking is free to all customers for the first 2 hours, thereafter charges apply. Cars £8.00, including a £2 meal voucher. HGV, Caravans & Coaches £21.00, including a £7 meal voucher..",NA,FALSE,TRUE,TRUE,NA,FALSE
+Heart of Scotland M8,M8,between junctions J4-5,ML7 5TT,Facilities accessible from one direction only,BP Connect,NA,NA,FALSE,FALSE,NA,NA,FALSE
+Heston Services M4,M4,between junctions J2-3,TW5 9NB,"Separate facilities for each carriageway, with no link between them",Moto,"Free for 2 hours, charges apply for longer stays. HGV with food voucher: Â£20 (without voucher: Â£18.50), Car: Â£8",Yes (More details at PiV Charge UK),FALSE,TRUE,FALSE,NA,FALSE
+Hilton Park Services M6,M6,between junctions J10A-11,WV11 2AT,"Separate facilities for each carriageway, but linked by a pedestrian footbridge",Moto,"The first 2 hours free. Site is now managed by CP-Plus. This is a camera operating system which takes a photo of your vehicle on the way in to the services and then again on the way out. if you haven't paid for parking and have stayed for longer than 2 hours, you will be sent a fine through the post. HGV fine = Â£250
+          Car fine - Â£80
+
+HGV: Parking with Food Â£20
+     Parking Without Food Â£18",NA,FALSE,TRUE,TRUE,NA,FALSE
+Hopwood Park Services M42,M42,at J2,B48 7AU,"Single site, used by traffic in both directions",Welcome Break,"Free for two hours, charges apply for longer stays. Cars: £10.00. Caravans, Coaches and HGVs: £22.50, including a £8.00 meal voucher.",Yes (More details at PiV Charge UK),TRUE,FALSE,NA,NA,FALSE
+J38 Truckstop M6,M6,at J38 and from A685,CA10 3SS,"Single site, used by traffic in both directions",Westmorland,NA,NA,TRUE,FALSE,NA,NA,FALSE
+Keele Services M6,M6,between junctions J15-16,ST5 5HG,Shared main facilities building but separate car parks and access for each carriageway,Welcome Break,"Free for two hours, charges apply for longer stays. Cars: £10.00. Caravans, Coaches and HGVs: £20.00, including a £7.00 meal voucher.",NA,FALSE,FALSE,NA,NA,FALSE
+Killington Lake Services M6,M6,between junctions J36-37 southbound,LA8 0NW,Facilities accessible from one direction only,RoadChef,"Free for the first two hours. Then £12 for 24 hours.
+HGV's £19 a night or £21 with £10 food voucher.",NA,FALSE,FALSE,NA,NA,FALSE
+Kinross Services M90,M90,at J6,KY13 0NQ,"Single site, used by traffic in both directions",Moto,"Free for 2 hours, charges apply for longer stays. HGV with food voucher: Â£15 (without voucher: Â£13) - Car: Â£8",NA,TRUE,FALSE,NA,NA,FALSE
+Knutsford Services M6,M6,between junctions J18-19,WA16 0TL,Shared main facilities building but separate car parks and access for each carriageway,Moto,"Free for 2 hours, charges apply for longer stays. HGV with food voucher: Â£20 (without voucher: Â£18). Car: 2 to 4 hours Â£10, up to 6 hours Â£15, up to 8 hours Â£20, up to 24 hours Â£35.",NA,FALSE,FALSE,NA,NA,FALSE
+Lancaster (Forton) Services M6,M6,between junctions J32-33,LA2 9DU,"Separate facilities for each carriageway, but linked by a pedestrian footbridge",Moto,"Free for 2 hours, charges apply for longer stays. HGV with food voucher: Â£15 (without voucher: Â£13), Car: Â£8",NA,FALSE,TRUE,TRUE,NA,FALSE
+Leicester (Markfield) Services M1,M1,"at J22 and from A50, A511",LE67 9PP,"Single site, used by traffic in both directions",Euro Garages,"Free for 2 hours, charges apply for longer stays. HGV with food voucher: Â£15 (without voucher: Â£13) - Car: Â£8",NA,TRUE,FALSE,NA,NA,FALSE
+Leicester Forest East Services M1,M1,between junctions J21-22,LE3 3GB,Shared main facilities building but separate car parks and access for each carriageway,Welcome Break,"Parking is free to all customers for the first 2 hours, thereafter charges apply:. Cars £10.00. HGV, Caravans & Coaches £20.00, including a £7.00 meal voucher.",Yes (More details at PiV Charge UK),FALSE,FALSE,NA,NA,FALSE
+Leigh Delamere Services M4,M4,between junctions J17-18,SN14 6LB,"Separate facilities for each carriageway, but linked by a pedestrian footbridge",Moto,"Free for 2 hours, charges apply for longer stays.",NA,FALSE,TRUE,TRUE,NA,FALSE
+London Gateway Services M1,M1,between junctions J2-4,NW7 3HU,"Single site, used by traffic in both directions",Welcome Break,Trucks £23 no meal voucher or £26 with a meal voucher,NA,TRUE,FALSE,NA,NA,FALSE
+Lymm Services M6,M6,at J20 and from A50,WA13 OSP,"Single site, used by traffic in both directions",Moto,Â£15 for HGV and Â£16 for cars,NA,TRUE,FALSE,NA,NA,FALSE
+Magor Services M4,M4,23A,NP26 3YL,"Single site, used by traffic in both directions",RoadChef,"Up to 2 hours free, then the following charges apply for up to 24 hours. Cars and Small Vans £10, Caravans, Medium Goods Vehicles and Large Motor Homes £16. HGVs £25 with Â£10 Food Voucher",Yes (More details at PiV Charge UK),TRUE,FALSE,NA,NA,FALSE
+Maidstone Services M20,M20,at J8 and from A20,ME17 1SS,"Single site, used by traffic in both directions",RoadChef,"Free for up to 2 hours, then the folowing charges apply for up to 24 hours
+Cars Â£20
+HGV Â£26
+HGV with Â£10 food voucher Â£30
+Caravans/ Medium Goods Vehicles/Large Motor Homes Â£26",NA,TRUE,FALSE,NA,NA,FALSE
+Medway Services M2,M2,between junctions J4-5,ME8 8PQ,Shared main facilities building but separate car parks and access for each carriageway,Moto,"HGV - £20.50 parking alone, £22 for parking and a £9 food voucher that can be used in Costa or for the King of the Day meal in Burger King.
+Car - £10 for 24 hours.",Yes (More details at PiV Charge UK),FALSE,FALSE,NA,NA,FALSE
+Membury Services M4,M4,between junctions J14-15,RG17 7TZ,"Separate facilities for each carriageway, but linked by a pedestrian footbridge",Welcome Break,"Free for two hours, charges apply for longer stays. Cars: £11.00. Caravans, Coaches and HGVs: £21.00, including a £7.00 meal voucher.",Yes (More details at PiV Charge UK),FALSE,TRUE,TRUE,NA,FALSE
+Michaelwood Services M5,M5,between junctions J13-14,GL11 6DD,"Separate facilities for each carriageway, but linked by a pedestrian footbridge",Welcome Break,"Free for two hours, charges apply for longer stays. Cars: £10.00. Caravans, Coaches and HGVs: £18.50 including meal voucher or £16.00 without.",NA,FALSE,TRUE,TRUE,NA,FALSE
+Newport Pagnell Services M1,M1,between junctions J14-15,MK16 8DS,"Separate facilities for each carriageway, but linked by a pedestrian footbridge",Welcome Break,"Free for 2 hours, 
+Cars & Vans £12.00.
+HGV & Caravan £22.00 or £25.00 with a £9 food voucher",NA,FALSE,TRUE,TRUE,NA,FALSE
+Northampton Services M1,M1,15A and from A43,NN4 9QY,"Separate facilities for each carriageway, with no link between them",RoadChef,"Free for up to 2 hours, then the following charges apply for up to 24 hours
+Cars Â£20
+HGV Â£21
+HGV with Â£10 food voucher Â£23
+Caravans/Medium Goods Vehicles/Large Motor Homes Â£21",NA,FALSE,TRUE,FALSE,NA,FALSE
+Norton Canes Services M6 Toll,M6 Toll,between junctions JT6-T7,WS11 9UX,"Single site, used by traffic in both directions",RoadChef,"Free for up to 2 hours, then the following charges apply for up to 24 hours Cars Â£10 HGV Â£19 HGV with food voucher Â£21 Caravans/Medium Goods Vehicles/Large Motor Homes Â£19",NA,TRUE,FALSE,NA,NA,FALSE
+Oxford Services M40,M40,"8A and from A40, A418",OX33 1JN,"Single site, used by traffic in both directions",Welcome Break,"Free for two hours, charges apply for longer stays. Cars: £8.00, including a £2.00 meal voucher. Caravans, Coaches and HGVs: £22.50, including a £8.00 meal voucher.",NA,TRUE,FALSE,NA,NA,FALSE
+Pease Pottage Services M23,M23,at J11 and from A264,RH11 9AE,"Single site, used by traffic in both directions",Moto,"Free for 2 hours, charges apply for longer stays. HGV with food voucher: £20 (Food voucher value: 7.50) Without voucher: £18 Car: £8",Yes (More details at PiV Charge UK),TRUE,FALSE,NA,NA,FALSE
+Peterborough Services A1(M),A1(M),at J17 and from A605,PE7 3UQ,"Single site, used by traffic in both directions",Extra MSA,Up to 2 hours free parking,NA,TRUE,FALSE,NA,NA,FALSE
+Pont Abraham Services M4,M4,"at J49 and from A48, A483",SA4 0FU,"Single site, used by traffic in both directions",RoadChef,"Free for up to 2 hours, then the following charges apply for up to 24 hours
+Cars Â£10
+HGV Â£21
+HGV with Â£10 food voucher Â£23
+Caravans/Medium Goods Vehicles/Large Motor Homes Â£17",NA,TRUE,FALSE,NA,NA,FALSE
+Reading Services M4,M4,between junctions J11-12,RG30 3UQ,"Separate facilities for each carriageway, with no link between them",Moto,"Car £10,
+HGV £24",NA,FALSE,TRUE,FALSE,NA,FALSE
+Rivington Services M61,M61,between junctions J6-7 and from none,BL6 5UZ,"Separate facilities for each carriageway, but linked by a pedestrian footbridge",Euro Garages,"£8 for cars or small vans.
+£19.99 for big vans, coaches and trucks with meal voucher or £15.00 without voucher.",NA,FALSE,TRUE,TRUE,NA,FALSE
+Rownhams Services M27,M27,between junctions J3-4,SO16 8AP,"Separate facilities for each carriageway, but linked by a pedestrian footbridge",RoadChef,"Free for up to 2 hours, then the following charges apply for up to 24 hours: Cars £10 HGV £21, HGV with £10 food voucher £27, Caravans/Medium Goods Vehicles/Large Motor Homes £19",NA,FALSE,TRUE,TRUE,NA,FALSE
+Sandbach Services M6,M6,between junctions J16-17,CW11 2FZ,"Separate facilities for each carriageway, but linked by a pedestrian footbridge",RoadChef,"Free for up to 2 hours, then the following charges apply for up to 24 hours
+Cars Â£10
+HGV Â£22
+HGV with Â£10 food voucher Â£26
+Caravans/Medium Goods Vehicles/Large Motor Homes Â£22",NA,FALSE,TRUE,TRUE,NA,FALSE
+Sarn Park Services M4,M4,"at J36 and from A406, A4063",CF32 9RW,"Single site, used by traffic in both directions",Welcome Break,"Free for two hours, charges apply for longer stays. Cars: £6.00, including a £2.00 meal voucher. Caravans, Coaches and HGVs: £15.00, including a £6.00 meal voucher.",Yes (More details at PiV Charge UK),TRUE,FALSE,NA,NA,FALSE
+Scotch Corner Services A1(M),A1(M),at J57 and from A66,DL10 6PQ,"Single site, used by traffic in both directions",Moto,"Free for 2 hours, charges apply for longer stays. Car/coaches: Â£8. No HGV parking available at this site.",NA,TRUE,FALSE,NA,NA,FALSE
+Sedgemoor Services Northbound M5,M5,between junctions J21-22 Northbound,BS24 0JL,Facilities accessible from one direction only,Welcome Break,"Free for two hours, charges apply for longer stays. Cars: £8.00, including a £2.00 meal voucher. Caravans, Coaches and HGVs: £17.50, including a £7.00 meal voucher.",Yes (More details at PiV Charge UK),FALSE,FALSE,NA,Sedgemoor Services Northbound M5 M5,TRUE
+Sedgemoor Services Southbound M5,M5,between junctions J21-22,BS26 2UF,Facilities accessible from one direction only,RoadChef,"Free for up to 2 hours, then the following charges apply for up to 24 hours Cars Â£10 HGV Â£18 HGV with Â£10 food voucher Â£22 Caravans/Medium Goods Vehicles/Large Motor Homes Â£18",NA,FALSE,FALSE,NA,Sedgemoor Services Southbound M5 M5,TRUE
+Severn View Services M48,M48,at J1,BS35 4BH,"Single site, used by traffic in both directions",Moto,"Free for 2 hours, charges apply for longer stays. HGV with food voucher: Â£15 (without voucher: Â£13) - Car: Â£8",Yes (More details at PiV Charge UK),TRUE,FALSE,NA,NA,FALSE
+South Mimms Services M25,M25,"at J23 and from A1(M), A1, A1081",EN6 3QQ,"Single site, used by traffic in both directions",Welcome Break,"2 hours free - then up to 24 hours Cars £15,  Coaches and commercial vehicles £24 ( parking only)  or £28 with meal voucher.",NA,TRUE,FALSE,NA,NA,FALSE
+Southwaite Services M6,M6,between junctions J41-42,CA4 0NT,"Separate facilities for each carriageway, but linked by a pedestrian footbridge",Moto,"Free for 2 hours, charges apply for longer stays. HGV with food voucher: Â£15 (without voucher: Â£13) - Car: Â£8",NA,FALSE,TRUE,TRUE,NA,FALSE
+Stafford Services Northbound M6,M6,between junctions J14-15,ST15 0EU,Facilities accessible from one direction only,Moto,"* HGV with food voucher: Â£21
+    * HGV without food voucher: Â£14
+    * Car Park: Free (up to 2hrs)
+    * Car Park: Â£8 (2-24hrs)",NA,FALSE,FALSE,NA,Stafford Services Northbound M6 M6,TRUE
+Stafford Services Southbound M6,M6,between junctions J14-15,ST15 0XE,Facilities accessible from one direction only,RoadChef,"2 Hours Free, £20 HGV Parking with Food Voucher, £18 HGV Parking without food voucher, Cars £12",NA,FALSE,FALSE,NA,Stafford Services Southbound M6 M6,TRUE
+Stirling Services M9,M9,"at J9 and from A91, A872",FK7 8EU,"Single site, used by traffic in both directions",Moto,"Cars free up to 2 hours, Cars £15 - 2-24 hours, HGV without food voucher £22.50, HGV with food voucher £24.",NA,TRUE,FALSE,NA,NA,FALSE
+Stop24 Services (Folkestone) M20,M20,"at J11 and from A20, B2068",CT21 4BL,"Single site, used by traffic in both directions",Stop 24,"Cars: First 2 hours free, £5 per 24 hours thereafter.",NA,TRUE,FALSE,NA,NA,FALSE
+Strensham Services M5,M5,between junctions J7-8 and from M50 northbound,WR8 0BZ,"Separate facilities for each carriageway, with no link between them",RoadChef,"Free for up to 2 hours, then the following charges apply for up to 24 hours
+Cars £10
+HGV £25
+HGV with £10 food voucher £27
+Caravans/Medium Goods Vehicles/Large Motor Homes £22",NA,FALSE,TRUE,FALSE,NA,FALSE
+Swansea West M4,M4,at J47,SA4 9GT,"Single site, used by traffic in both directions",Moto,"Free for 2 hours, charges apply for longer stays. HGV with food voucher: £20.50, Car: £8",NA,TRUE,FALSE,NA,NA,FALSE
+Tamworth Services M42,M42,at J10 and from a5,B77 5PS,"Single site, used by traffic in both directions",Moto,"Free for 2 hours, charges apply for longer stays. HGV with food voucher: Â£21 (without voucher: Â£19.50) - Car: Â£12",NA,TRUE,FALSE,NA,NA,FALSE
+Taunton Deane Services M5,M5,between junctions J25-26,TA3 7PF,"Separate facilities for each carriageway, but linked by a pedestrian footbridge",RoadChef,"Free for up to 2 hours, then the following charges apply for up to 24 hours
+Cars Â£10
+HGV Â£20
+HGV with Â£10 food voucher Â£22
+Caravans/Medium Goods Vehicles/Large Motor Homes Â£17",NA,FALSE,TRUE,TRUE,NA,FALSE
+Tebay Services Northbound M6,M6,between junctions J38-39,CA10 3SB,Facilities accessible from one direction only,Westmorland,NA,NA,FALSE,FALSE,NA,Tebay Services Northbound M6 M6,TRUE
+Tebay Services Southbound M6,M6,between junctions J38-39,CA10 3SB,Facilities accessible from one direction only,Westmorland,NA,NA,FALSE,FALSE,NA,Tebay Services Southbound M6 M6,TRUE
+Telford Services M54,M54,at J4 and from A464,TF11 8TG,"Single site, used by traffic in both directions",Welcome Break,"Free for two hours, charges apply for longer stays. Cars: £8.00, including a £2.00 meal voucher. Caravans, Coaches and HGVs: £17.50, including a £7.00 meal voucher.",NA,TRUE,FALSE,NA,NA,FALSE
+Thurrock Services M25,M25,"between junctions J30-31 and from A 13, A1306",RM16 3BG,"Single site, used by traffic in both directions",Moto,"Free for 2 hours, charges apply for longer stays. HGV with food voucher: £30 (food voucher value: £10) Without voucher: £28.50. Cars: £15",NA,TRUE,FALSE,NA,NA,FALSE
+Tibshelf Services M1,M1,between junctions J28-29,DE55 5TZ,"Separate facilities for each carriageway, with no link between them",RoadChef,"Free for the first 2 hours, then the following charges apply for up to 24 hours Cars £12, HGV £20, HGV with £10 food voucher £22, Caravans/Medium Goods Vehicles/Large Motor Homes £20",NA,FALSE,TRUE,FALSE,NA,FALSE
+Tiverton Services M5,M5,"at J27 and from A361, A38",EX16 7HD,"Single site, used by traffic in both directions",Moto,"Car Park operated by CP Plus. Up to 2 hours free of charge, longer stays (2 hours+) are charged.
+
+2-24 hours: £5",NA,TRUE,FALSE,NA,NA,FALSE
+Toddington Services M1,M1,between junctions J11-12,LU5 6HR,"Separate facilities for each carriageway, but linked by a pedestrian footbridge",Moto,"Free for 2 hours, charges apply for longer stays. HGV with food voucher: Â£22 (without voucher: Â£20.50) - Car: Â£10",Yes (More details at PiV Charge UK),FALSE,TRUE,TRUE,NA,FALSE
+Todhills Rest Area M6,M6,between junctions J44-45,CA6 4HA,"Separate facilities for each carriageway, with no link between them",Moto,"Free for 2 hours, charges apply for longer stays. Car: Â£3 (No HGV parking available)",NA,FALSE,TRUE,FALSE,NA,FALSE
+Trowell Services M1,M1,between junctions J25-26,NG9 3PL,"Separate facilities for each carriageway, but linked by a pedestrian footbridge",Moto,"Free for 2 hours, charges apply for longer stays. HGV with food voucher: £17.50 (without voucher: £15) - Car: £11",NA,FALSE,TRUE,TRUE,NA,FALSE
+Warwick Services Northbound M40,M40,between junctions J12-13,CV35 0AA,Facilities accessible from one direction only,Welcome Break,"Free for two hours, charges apply for longer stays. Cars: £8.00, including a £2.00 meal voucher. Caravans, Coaches and HGVs: £22.50, including a £10.00 meal voucher.",NA,FALSE,FALSE,NA,Warwick Services Northbound M40 M40,TRUE
+Warwick Services Southbound M40,M40,between junctions J12-13,CV35 0AA,"Separate facilities for each carriageway, with no link between them",Welcome Break,"Cars £8 - Caravan, Commercial vehicle or HGV £21 with no meal voucher or £23.50  with £8 meal voucher",Yes (More details at PiV Charge UK),FALSE,TRUE,FALSE,Warwick Services Southbound M40 M40,TRUE
+Washington Services A1(M),A1(M),between junctions J64-65,DH3 2SJ,"Separate facilities for each carriageway, but linked by a pedestrian footbridge",Moto,"Free for 2 hours, charges apply for longer stays. HGV with food voucher: Â£16 (without voucher: Â£14) - Car: Â£8",Yes (More details at PiV Charge UK),FALSE,TRUE,TRUE,NA,FALSE
+Watford Gap Services M1,M1,between junctions J16-17,NN6 7UZ,"Separate facilities for each carriageway, but linked by a pedestrian footbridge",RoadChef,"Free for the first 2 hours, then the following charges apply for up to 24 hours
+Cars Â£10
+HGV Â£21
+HGV with Â£10 food voucher Â£25
+Caravans/Medium Goods Vehicles/Large Motor Homes Â£21",NA,FALSE,TRUE,TRUE,NA,FALSE
+Wetherby Services A1(M),A1(M),at J46 and from B6164,LS22 5GT,"Single site, used by traffic in both directions",Moto,Free for 2 hours,NA,TRUE,FALSE,NA,NA,FALSE
+Winchester Services M3,M3,between junctions J8-9 and from N/A,SO21 1PP,Facilities accessible from one direction only,Moto,Free for two hours after that the following charges apply HGV / Caravan £23   HGV with food voucher of £9 is £24.50 Car £12.50,NA,FALSE,FALSE,NA,NA,FALSE
+Woodall Services M1,M1,between junctions J30-31,S26 7XR,"Separate facilities for each carriageway, but linked by a pedestrian footbridge",Welcome Break,"£5 for cars up to 6 hours £12 for cars 24 hours
+For hgv £24 no food voucher
+£26 pounds for parking with a £9 food voucher",NA,FALSE,TRUE,TRUE,NA,FALSE
+Woolley Edge Services M1,M1,between junctions J38-39,WF4 4LQ,"Separate facilities for each carriageway, with no link between them",Moto,"Free for 2 hours, charges apply for longer stays. HGV with food voucher: £20 (without voucher: £18.50), Car: £8",NA,FALSE,TRUE,FALSE,NA,FALSE
