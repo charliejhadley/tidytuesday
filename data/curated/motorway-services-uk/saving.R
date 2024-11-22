@@ -9,3 +9,4 @@ dir_name <- "motorway-services-uk"
 ttsave(data_services_retailers, dir_name = dir_name)
 ttsave(data_services_info, dir_name = dir_name)
 ttsave(data_service_locations, dir_name = dir_name)
+ttsave(data_operators, dir_name = dir_name)
