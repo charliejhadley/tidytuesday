@@ -45,6 +45,37 @@ data_type_of_retailer <- read_excel("data/curated/motorway-services-uk/retailer_
 # manually because it gets complicated with paired/twinned services
 data_raw_service_locations <- read_excel("data/curated/motorway-services-uk/services-locations.xlsx")
 
+
+# Manual manipulation -----------------------------------------------------
+
+# For confusing reasons, Westmorland data is inconsistently collected. 
+# Happendon, Tebay, and Gloucester all have the same food retailers but only
+# Gloucester has the data recorded. So let's add ot in manually.
+
+data_manual_westermorland <- data_raw_services %>% 
+  filter(service_station == "Gloucester Services Northbound M5",
+         property %in% c("Eat-In Food", "Takeaway Food / General")) %>% 
+  mutate(service_station = c("Happendon Services M74|Tebay Services Northbound M6|Tebay Services Southbound M6")) %>% 
+  separate_longer_delim(service_station,
+                        delim= "|")
+
+data_raw_services <- data_raw_services %>% 
+  bind_rows(data_manual_westermorland)
+
+
+# J38 Truckstop isn't really a service station!
+data_raw_services <- data_raw_services %>% 
+  filter(service_station != "J38 Truckstop M6")
+
+# The Costas at Thurrock Services M25 and Trowell Services M1 have been accidentally ommitted.
+
+data_raw_services <- data_raw_services %>% 
+  bind_rows(tibble(
+    property = "Takeaway Food / General",
+    value = "Costa",
+    service_station = c("Thurrock Services M25", "Trowell Services M1")
+  ))
+
 # Retail info -------------------------------------------------------------
 
 data_raw_eat_in <- data_raw_services %>% 
