@@ -1,9 +1,9 @@
-operator,n_named_sites_all,n_named_sites_mainland,n_named_sites_ireland,n_single_sites,n_twins,n_pairs
-BP Connect,1,1,0,0,0,0
-Euro Garages,2,2,0,1,1,0
-Extra MSA,7,7,0,6,1,0
-Moto,39,39,0,21,13,1
-RoadChef,20,20,0,7,8,2
-Stop 24,1,1,0,1,0,0
-Welcome Break,27,27,0,12,8,5
-Westmorland,6,6,0,2,0,4
+operator,n_named_sites_all,n_single_sites,n_twins,n_pairs
+BP Connect,1,0,0,0
+Euro Garages,2,1,1,0
+Extra MSA,7,6,1,0
+Moto,39,21,13,1
+RoadChef,20,7,8,2
+Stop 24,1,1,0,0
+Welcome Break,27,12,8,5
+Westmorland,5,1,0,4

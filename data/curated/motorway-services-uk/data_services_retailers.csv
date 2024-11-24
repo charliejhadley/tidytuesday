@@ -20,7 +20,7 @@ Domino's Pizza,Beaconsfield Services M40,Directionless,TRUE,TRUE,TRUE,NA,NA
 Greggs,Beaconsfield Services M40,Directionless,TRUE,TRUE,TRUE,NA,TRUE
 El Mexicana,Beaconsfield Services M40,Directionless,TRUE,TRUE,TRUE,NA,NA
 Chozen Noodles,Beaconsfield Services M40,Directionless,TRUE,TRUE,TRUE,NA,NA
-LP4,Beaconsfield Services M40,Directionless,FALSE,NA,NA,NA,NA
+Le Petit Four,Beaconsfield Services M40,Directionless,TRUE,FALSE,TRUE,NA,TRUE
 Burger King,Birch Services M62,Directionless,TRUE,TRUE,TRUE,NA,NA
 Greggs,Birch Services M62,Directionless,TRUE,TRUE,TRUE,NA,TRUE
 Costa,Birch Services M62,Directionless,TRUE,FALSE,TRUE,NA,TRUE
@@ -105,7 +105,7 @@ McDonald's,Cullompton Services M5,Directionless,TRUE,TRUE,TRUE,NA,NA
 Costa,Cullompton Services M5,Directionless,TRUE,FALSE,TRUE,NA,TRUE
 Coffee Primo,Derby South Services Eastbound A50,Directionless,TRUE,TRUE,TRUE,NA,TRUE
 Eat In,Derby South Services Eastbound A50,Directionless,TRUE,TRUE,TRUE,NA,NA
-LP4,Derby South Services Westbound A50,Directionless,FALSE,NA,NA,NA,NA
+Le Petit Four,Derby South Services Westbound A50,Directionless,TRUE,FALSE,TRUE,NA,TRUE
 KFC,Derby South Services Westbound A50,Directionless,TRUE,TRUE,TRUE,NA,NA
 Costa,Doncaster North Services M18,Directionless,TRUE,FALSE,TRUE,NA,TRUE
 Burger King,Doncaster North Services M18,Directionless,TRUE,TRUE,TRUE,NA,NA
@@ -174,7 +174,6 @@ Starbucks,Hopwood Park Services M42,Directionless,TRUE,NA,TRUE,NA,TRUE
 Eat In,Hopwood Park Services M42,Directionless,TRUE,TRUE,TRUE,NA,NA
 Burger King,Hopwood Park Services M42,Directionless,TRUE,TRUE,TRUE,NA,NA
 KFC,Hopwood Park Services M42,Directionless,TRUE,TRUE,TRUE,NA,NA
-Westmorland restaurant and bar,J38 Truckstop M6,Directionless,TRUE,TRUE,TRUE,NA,NA
 Starbucks,Keele Services M6,Directionless,TRUE,NA,TRUE,NA,TRUE
 Eat In,Keele Services M6,Directionless,TRUE,TRUE,TRUE,NA,NA
 Burger King,Keele Services M6,Directionless,TRUE,TRUE,TRUE,NA,NA
@@ -350,6 +349,12 @@ Harry Ramsden's,Woodall Services M1,Directionless,TRUE,TRUE,TRUE,NA,NA
 Burger King,Woolley Edge Services M1,Directionless,TRUE,TRUE,TRUE,NA,NA
 Eat & Drink Co,Woolley Edge Services M1,Directionless,TRUE,TRUE,TRUE,NA,NA
 Costa,Woolley Edge Services M1,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+"Food to Go
+Farm Cafe",Happendon Services M74,Directionless,NA,NA,NA,NA,NA
+"Food to Go
+Farm Cafe",Tebay Services Northbound M6,Directionless,NA,NA,NA,NA,NA
+"Food to Go
+Farm Cafe",Tebay Services Southbound M6,Directionless,NA,NA,NA,NA,NA
 Costa,Northampton Services M1,Northbound,TRUE,FALSE,TRUE,NA,TRUE
 Restbite,Northampton Services M1,Northbound,TRUE,NA,NA,NA,TRUE
 The Burger Company,Northampton Services M1,Northbound,TRUE,TRUE,TRUE,NA,NA
@@ -500,8 +505,8 @@ WHSmiths,Fleet Services M3,Directionless,TRUE,NA,NA,TRUE,NA
 Waitrose,Fleet Services M3,Directionless,TRUE,NA,NA,TRUE,NA
 M&S,Frankley Services M5,Directionless,TRUE,NA,NA,TRUE,NA
 WHSmiths,Frankley Services M5,Directionless,TRUE,NA,NA,TRUE,NA
-Farm Shop,Gloucester Services Northbound M5,Directionless,TRUE,NA,NA,TRUE,NA
-Farm Shop,Gloucester Services Southbound M5,Directionless,TRUE,NA,NA,TRUE,NA
+Farm Shop,Gloucester Services Northbound M5,Directionless,TRUE,NA,NA,TRUE,TRUE
+Farm Shop,Gloucester Services Southbound M5,Directionless,TRUE,NA,NA,TRUE,TRUE
 WHSmiths,Gordano Services M5,Directionless,TRUE,NA,NA,TRUE,NA
 Waitrose,Gordano Services M5,Directionless,TRUE,NA,NA,TRUE,NA
 FoneBiz,Gordano Services M5,Directionless,FALSE,NA,NA,NA,NA
@@ -517,8 +522,6 @@ Ladbrokes,Hilton Park Services M6,Directionless,FALSE,NA,NA,NA,NA
 Cotton Traders,Hilton Park Services M6,Directionless,FALSE,FALSE,NA,NA,NA
 phonebitz,Hilton Park Services M6,Directionless,FALSE,NA,NA,NA,NA
 Waitrose,Hopwood Park Services M42,Directionless,TRUE,NA,NA,TRUE,NA
-Westmorland shop,J38 Truckstop M6,Directionless,TRUE,NA,NA,NA,NA
-Westmorland shop,J38 Truckstop M6,Directionless,TRUE,NA,NA,NA,NA
 Retail Shop,Keele Services M6,Directionless,FALSE,NA,NA,NA,NA
 Waitrose,Keele Services M6,Directionless,TRUE,NA,NA,TRUE,NA
 FoneBiz,Keele Services M6,Directionless,FALSE,NA,NA,NA,NA
@@ -651,3 +654,8 @@ Phone Bitz,Woodall Services M1,Directionless,FALSE,NA,NA,NA,NA
 Waitrose,Woodall Services M1,Directionless,TRUE,NA,NA,TRUE,NA
 M&S,Woolley Edge Services M1,Directionless,TRUE,NA,NA,TRUE,NA
 WHSmiths,Woolley Edge Services M1,Directionless,TRUE,NA,NA,TRUE,NA
+Farm Shop,Happendon Services M74,Directionless,TRUE,NA,NA,TRUE,TRUE
+Farm Shop,Tebay Services Northbound M6,Directionless,TRUE,NA,NA,TRUE,TRUE
+Farm Shop,Tebay Services Southbound M6,Directionless,TRUE,NA,NA,TRUE,TRUE
+Costa,Thurrock Services M25,Directionless,TRUE,FALSE,TRUE,NA,TRUE
+Costa,Trowell Services M1,Directionless,TRUE,FALSE,TRUE,NA,TRUE
