@@ -213,6 +213,7 @@ data_long_other_shops_w_direction <- data_raw_services %>%
 
 data_long_retailers <- bind_rows(data_long_eat_in, data_long_other_shops_w_direction, data_long_other_shops_directionless)
 
+## Join with types of retailer
 data_services_retailers <- data_long_retailers %>% 
   left_join(data_type_of_retailer) %>% 
   mutate(across(starts_with("is"), ~ case_when(
@@ -222,7 +223,8 @@ data_services_retailers <- data_long_retailers %>%
   )))
 
 
-# Non-retailer information ------------------------------------------------
+
+  # Non-retailer information ------------------------------------------------
 
 data_wide_services <- data_raw_services %>% 
   filter(property %in% c("Motorway",
